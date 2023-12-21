@@ -1,0 +1,24 @@
+16it [00:50,  2.75s/it]
+>900 * 30 invalid syntax (<string>, line 1)
+212it [14:22,  3.30s/it]
+250 000 * 0.4 invalid syntax (<string>, line 1)
+231it [15:33,  3.40s/it]
+42 000 * 10 / 100 invalid syntax (<string>, line 1)
+232it [15:37,  3.49s/it]
+40 / 100 * 400 000 unexpected EOF while parsing (<string>, line 1)
+400 000 - 200 000 invalid syntax (<string>, line 1)
+255it [17:20,  3.56s/it]
+22 + 44 + 33 + 33 + 33 + 33 + 33 + 33 + 33, 33 + 33 + 33 + 33 + 33 + 33 + 33 + 32 + 33 + 33 + 33 + 33 + 33 + 33 + 33 type tuple doesn't define __round__ method
+262it [17:49,  3.28s/it]
+>5 - 5 invalid syntax (<string>, line 1)
+274it [18:48,  3.83s/it]
+>20 / 20 invalid syntax (<string>, line 1)
+>0.1 / 20 invalid syntax (<string>, line 1)
+335it [23:05,  5.13s/it]
+175 000 + 50 000 invalid syntax (<string>, line 1)
+337it [23:11,  4.03s/it]
+12 / 12</calcator>2 чип.
+Затем найдите общее количество стеклянных чипсов, необходимых на изготовление квадратного дюйма мозаики: 72 чипса / 72 квадратных дюйма = <cald>72 / 72 invalid syntax (<string>, line 1)
+382it [26:03,  3.00s/it]
+12000 - 80 000 unexpected EOF while parsing (<string>, line 1)
+400it [27:16,  4.09s/it]

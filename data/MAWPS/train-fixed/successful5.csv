@@ -1,0 +1,112 @@
+question,answer
+"A teacher had 38 worksheets to grade . If she graded 4 , but then another 15 were turned in , how many worksheets would she have to grade ?","The teacher initially had 38 worksheets to grade. She graded 4 of them. 
+
+To find out how many worksheets she would have to grade after another 15 were turned in, we need to add the number of worksheets she initially had to the number of worksheets turned in.
+
+So, we add 38 and 15:  38 + 15 = << 38 + 15 = 53 >> 53 .
+
+Therefore, the teacher would have to grade 53 worksheets. 
+
+#### 53"
+"A teacher had 6 worksheets to grade . If she graded 4 , but then another 18 were turned in , how many worksheets would she have to grade ?","The teacher initially had 38 worksheets to grade. She graded 4 of them. 
+
+To find out how many worksheets she would have to grade after another 15 were turned in, we need to add the number of worksheets she initially had to the number of worksheets turned in.
+
+So, we add 38 and 15:  38 + 15 = << 38 + 15 = 53 >> 53 .
+
+Therefore, the teacher would have to grade 53 worksheets. 
+
+#### 53"
+"A teacher had 7 worksheets to grade . If she graded 2 , but then another 46 were turned in , how many worksheets would she have to grade ?","The teacher initially had 38 worksheets to grade. She graded 4 of them. 
+
+To find out how many worksheets she would have to grade after another 15 were turned in, we need to add the number of worksheets she initially had to the number of worksheets turned in.
+
+So, we add 38 and 15:  38 + 15 = << 38 + 15 = 53 >> 53 .
+
+Therefore, the teacher would have to grade 53 worksheets. 
+
+#### 53"
+"A teacher had 34 worksheets to grade . If she graded 7 , but then another 36 were turned in , how many worksheets would she have to grade ?","The teacher initially had 38 worksheets to grade. She graded 4 of them. 
+
+To find out how many worksheets she would have to grade after another 15 were turned in, we need to add the number of worksheets she initially had to the number of worksheets turned in.
+
+So, we add 38 and 15:  38 + 15 = << 38 + 15 = 53 >> 53 .
+
+Therefore, the teacher would have to grade 53 worksheets. 
+
+#### 53"
+"A teacher had 29 worksheets to grade . If she graded 25 , but then another 29 were turned in , how many worksheets would she have to grade ?","The teacher initially had 38 worksheets to grade. She graded 4 of them. 
+
+To find out how many worksheets she would have to grade after another 15 were turned in, we need to add the number of worksheets she initially had to the number of worksheets turned in.
+
+So, we add 38 and 15:  38 + 15 = << 38 + 15 = 53 >> 53 .
+
+Therefore, the teacher would have to grade 53 worksheets. 
+
+#### 53"
+there are 56 students in the class . the teacher wants to split them into 2 groups . the first group has 24 students . how many more students will there be in the second group ?,"To find out how many more students will be in the second group, we need to subtract the number of students in the first group from the total number of students.
+
+Total number of students - Number of students in the first group = Number of students in the second group
+
+Given:
+Total number of students = 56
+Number of students in the first group = 24
+
+Number of students in the second group = Total number of students - Number of students in the first group
+
+Number of students in the second group = 56 - 24
+
+Number of students in the second group = 32
+
+Therefore, there will be 32 more students in the second group. 
+#### 32"
+"Katie 's team won their dodgeball game and scored 12 points total . If Katie scored 4 of the points and everyone else scored 4 points each , how many players were on her team ?","Let's assume that there were ""x"" players on Katie's team.
+
+Katie scored 4 points, and everyone else scored 4 points each. So the total number of points scored by everyone else is (x - 1) * 4.
+
+The total number of points scored by the team is the sum of Katie's points and the points scored by everyone else, which is 12.
+
+So we can write the equation: 4 + (x - 1) * 4 = 12.
+
+Simplifying the equation, we get: 4 + 4x - 4 = 12.
+
+Combining like terms, we get: 4x = 12.
+
+Dividing both sides of the equation by 4, we get: x = 3.
+
+Therefore, there were 3 players on Katie's team.
+
+#### 3"
+a transport company bought 95 tons of oil . a large barrel can hold 6 tons of oil and a small barrel can hold 5 tons of oil . in order to use the least number of barrels and have every barrel fully occupied how many large barrels should be used ?,"To find out how many large barrels should be used, we need to divide the total amount of oil (95 tons) by the capacity of each large barrel (6 tons).
+
+First, let's calculate how many large barrels can hold 95 tons of oil. We can do this by dividing 95 by 6:
+
+ 9 / 5{6} = << 9 / 5{6} = 15.83 >> 15.83 
+
+Since we cannot have a fraction of a barrel, we need to round up to the nearest whole number. Therefore, we would need 16 large barrels.
+
+#### 16"
+there was 1050 ml of tea in a pot . anna poured the tea into some cups . if there were 65 ml of tea in each cup how many cups were filled with tea ?,"To find the number of cups filled with tea, we need to divide the total amount of tea in the pot by the amount of tea in each cup.
+
+Given:
+Total amount of tea in the pot = 1050 ml
+Amount of tea in each cup = 65 ml
+
+To find the number of cups:
+Number of cups = Total amount of tea / Amount of tea in each cup
+
+Number of cups = 1050 ml / 65 ml
+
+Now, let's calculate this:
+
+Number of cups = << 1 / 050}{65} >>
+
+Using long division, we get:
+
+Number of cups = 16.153846...
+
+Since we cannot have a fraction of a cup, we round down to the nearest whole number.
+
+Number of cups = 16
+
+#### 16"

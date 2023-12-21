@@ -1,0 +1,361 @@
+question,answer
+"One stamp costs number0 cents . If the cost of each stamp remains the same , how much would number1 stamps cost ?","To find out how much 4 stamps would cost, we can multiply the cost of one stamp by the number of stamps. 
+
+The cost of one stamp is given as 34 cents. 
+
+So, to find the cost of 4 stamps, we can multiply 34 cents by 4:
+
+ 34 * 4 = << 34 * 4 = 136 >> 136  
+
+Therefore, 4 stamps would cost 136 cents. 
+
+#### 136"
+"Grace has number0 jellybeans in her pocket . She has number1 red ones , number2 green ones , and number3 blue ones . What is the minimum number of jellybeans she must take out of her pocket to ensure that she has one of each color ?","To ensure that Grace has one jellybean of each color, we need to determine the minimum number of jellybeans she must take out. 
+
+Since she has 8 red ones, 4 green ones, and 4 blue ones, the total number of jellybeans is 8 + 4 + 4 = 16.
+
+To ensure that she has one jellybean of each color, she could take out all the red ones (8), followed by one green one (1), and finally one blue one (1). 
+
+Therefore, the minimum number of jellybeans she must take out is 8 + 1 + 1 = 10.
+
+#### 10"
+"In a video game , each enemy defeated gives you number0 points . If a level has number1 enemies total and you destroy all but number2 of them , how many points would you earn ?","To find the number of points earned, we need to calculate the difference between the total number of enemies and the number of enemies destroyed. 
+
+The total number of enemies in the level is given as 8. 
+The number of enemies destroyed is given as 6. 
+
+To find the number of enemies remaining, we subtract the number of enemies destroyed from the total number of enemies: 
+
+8 - 6 = <<8 - 6 = 2>> 2
+
+Therefore, if you destroy all but 6 of the enemies in the level, you would earn 2 points. 
+
+#### 2"
+number0 students are forming teams for a mountaineering competition . each team should have number1 students . how many teams can they form ?,"To find the number of teams that can be formed, we need to divide the total number of students by the number of students per team.
+
+Given:
+Total number of students = 172
+Number of students per team = 18
+
+To find the number of teams, we can use the division operation:
+
+Number of teams = Total number of students / Number of students per team
+
+Substituting the given values into the equation:
+
+Number of teams = 172 / 18
+
+Performing the division:
+
+Number of teams = 9.555...
+
+Since we cannot have a fraction of a team, we need to round down to the nearest whole number. Therefore, they can form 9 teams.
+
+#### 9"
+Joan has saved number0 quarters from washing cars . How many cents does Joan have ?,"To find out how many cents Joan has, we need to know the value of each quarter in cents. 
+
+Since there are 100 cents in a dollar, we can calculate the value of one quarter by multiplying 25 (the number of cents in a quarter) by 4 (the number of quarters). 
+
+ 25 * 4 = << 25 * 4 = 100 >> 100  
+
+Therefore, each quarter is worth 100 cents. 
+
+To find out how many cents Joan has, we multiply the value of each quarter by the number of quarters she has saved. 
+
+ 100 * 6 = << 100 * 6 = 600 >> 600  
+
+Joan has 600 cents. 
+#### 600"
+"Melanie had number0 baseball cards , and number1 were torn . Sara bought number2 of Melanie 's baseball cards . How many baseball cards does Melanie have now ?","Melanie initially had 30 baseball cards. Out of these, 9 were torn. 
+
+So, the number of baseball cards that Melanie had before Sara bought any would be 30 - 9 = <<30 - 9 = 21>> 21. 
+
+Sara then bought 18 of Melanie's baseball cards. 
+
+To find out how many baseball cards Melanie has now, we need to subtract the number of cards Sara bought from the initial number of cards Melanie had. 
+
+Therefore, the number of baseball cards Melanie has now is 21 - 18 = <<21 - 18 = 3>> 3. 
+
+#### 3"
+"Mary had number0 baseball cards , and number1 were torn . Fred gave Mary number2 new baseball cards . Mary bought number3 baseball cards . How many baseball cards does Mary have now ?","To solve this problem, we can follow these steps:
+
+1. Start with the initial number of baseball cards Mary had: 18.
+2. Subtract the number of torn cards: 18 - 8 = 10.
+3. Add the number of new cards Fred gave Mary: 10 + 26 = 36.
+4. Add the number of cards Mary bought: 36 + 40 = 76.
+
+Therefore, Mary now has 76 baseball cards.
+
+#### 76"
+Jason has number0 books and he has read number1 of them . Mary has number2 books . How many books do they have together ?,"To find out how many books Jason and Mary have together, we need to add the number of books each of them has.
+
+Jason has 18 books and he has read 9 of them. So, the number of books Jason currently has is 18 - 9 = <<18 - 9 = 9>> 9.
+
+Mary has 42 books.
+
+To find the total number of books they have together, we add the number of books Jason has (9) to the number of books Mary has (42).
+
+Therefore, Jason and Mary have a total of 9 + 42 = <<9 + 42 = 51>> 51 books together.
+#### 51"
+"There were number0 friends playing a video game online when number1 players quit . If each player left had number2 lives , how many lives did they have total ?","Initially, there were 8 friends playing the video game online. Each player had 5 lives. 
+
+To find out how many lives they had in total, we need to multiply the number of players by the number of lives each player had.
+
+So, we have: 8 * 5 = <<8 * 5 = 40>> 40.
+
+Therefore, they had a total of 40 lives. 
+
+#### 40"
+"There were number0 friends playing a video game online when number1 players quit . If each player left had number2 lives , how many lives did they have total ?","Initially, there were 10 friends playing the video game online. Then, 7 players quit the game. 
+
+To find out how many lives they had in total, we need to calculate the number of lives each player left had and then sum them up.
+
+Since each player left had 8 lives, we can multiply the number of players who left (7) by the number of lives each player had (8).
+
+ 7 * 8 = << 7 * 8 = 56 >> 56 
+
+Therefore, they had a total of 56 lives in total.
+
+#### 56"
+Mrs. Hilt bought a notebook for number0 . She paid with nickels . How many nickels did she use to buy the notebook ?,"To find out how many nickels Mrs. Hilt used to buy the notebook, we need to determine the value of the notebook in terms of nickels.
+
+Since 1 nickel is equal to <<0.05, we can divide the cost of the notebook by >>0.05 to find the number of nickels.
+
+<<1 / >>0.05 = 20
+
+Therefore, Mrs. Hilt used 20 nickels to buy the notebook.
+
+#### 20"
+during recess buddy went to the cafeteria where he met other students from different grades . if he met number0 second grade students number1 number2 grade students and number3 fifth grade students how many more students did buddy meet during recess ?,"To find out how many more students Buddy met during recess, we need to calculate the total number of students he met and then subtract the number of students from each grade.
+
+First, let's calculate the total number of students Buddy met:
+14>> second grade students + <<10>> fourth grade students + <<16>> fifth grade students = <<14>> second grade students + <<10>> fourth grade students + <<16>> fifth grade students = <<40>> <<40 students
+
+Next, let's subtract the number of students from each grade:
+40>> students - (<<14>> second grade students + <<10>> fourth grade students + <<16>> fifth grade students) = <<40>> students - (<<14>> second grade students + <<10>> fourth grade students + <<16>> fifth grade students) = <<40 - (14 + 10 + 16)>> <<40 - (14 + 10 + 16)
+= <<40 - 40>>
+
+Finally, let's simplify the expression:
+40 - 40 = <<40 - 40 = 0>> 0
+
+Therefore, Buddy did not meet any additional students during recess.
+
+#### 0"
+number0 students split number1 portfolios of paintings . each student should get the same number of portfolios . how many portfolios of paintings will each of them get ?,"To find out how many portfolios of paintings each student will get, we need to divide the total number of portfolios (122) by the number of students (15).
+
+Let's perform the division:
+
+ 122 / 15 = << 122 / 15 = 8.13333333333 >> 8.13333333333 
+
+Since we cannot have a fraction of a portfolio, we need to round this number to the nearest whole number. 
+
+Rounding 8.13333333333 to the nearest whole number gives us 8.
+
+Therefore, each student will get 8 portfolios of paintings.
+
+#### 8"
+audrey has number0 peaches . paul has number1 peaches . what 's the difference of the number of audrey 's peaches and paul 's peaches ?,"To find the difference between the number of Audrey's peaches and Paul's peaches, we subtract the number of Paul's peaches from the number of Audrey's peaches.
+
+Audrey has 26 peaches.
+Paul has 48 peaches.
+
+To find the difference, we subtract 48 from 26:
+
+26 - 48 = <<26 - 48 = -22>> -22
+
+The difference between the number of Audrey's peaches and Paul's peaches is -22.
+
+#### -22"
+sharon has number0 plums . allan has number1 plums . what 's the difference of the number of sharon 's plums and allan 's plums ?,"To find the difference between the number of Sharon's plums and Allan's plums, we need to subtract the number of Allan's plums from the number of Sharon's plums.
+
+Sharon has 7 plums, which can be represented as 7.
+Allan has 10 plums, which can be represented as 10.
+
+To find the difference, we subtract 10 from 7:
+
+7 - 10 = <<7 - 10 = -3>> -3
+
+The difference between the number of Sharon's plums and Allan's plums is -3.
+
+#### -3"
+billy was playing basketball with his friend . billy scored number0 points and his friend scored number1 points . what 's the difference between billy 's points and his friend 's points ?,"To find the difference between Billy's points and his friend's points, we need to subtract the number of points his friend scored from the number of points Billy scored. 
+
+The number of points Billy scored is 7, and the number of points his friend scored is 9. 
+
+To calculate the difference, we subtract his friend's score from Billy's score: 
+
+7 - 9 = <<7 - 9 = -2>> -2 
+
+So the difference between Billy's points and his friend's points is -2. 
+
+#### -2"
+"A farmer estimates that he will harvest number0 bushels of wheat . The weather is perfect during the growing season , so he harvests number1 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?","Let's denote the number of bushels of wheat the farmer initially expected to harvest as ""x"". According to the problem, the farmer harvests 684 bushels of wheat more than expected. 
+
+So, we can set up the equation: x + 684 = 48097
+
+To find the value of x, we need to isolate it on one side of the equation. We can do this by subtracting 684 from both sides:
+
+x + 684 - 684 = 48097 - 684
+x = 47413
+
+Therefore, the farmer initially expected to harvest 47413 bushels of wheat.
+
+#### 47413"
+"Kaleb was collecting cans for recycling . On Saturday he filled number0 bags up and on Sunday he filled number1 more bags . If each bag had number2 cans in it , how many cans did he pick up total ?","To find the total number of cans Kaleb picked up, we need to calculate the number of cans in each bag and then add them together.
+
+First, let's calculate the number of cans in each bag. We are given that each bag has 4 cans in it.
+
+Number of cans in each bag = 4
+
+Next, let's calculate the total number of bags Kaleb filled up. On Saturday, he filled 4 bags, and on Sunday, he filled 6 more bags.
+
+Number of bags on Saturday = 4
+Number of bags on Sunday = 4 + 6 = 10
+
+Now, let's calculate the total number of cans by multiplying the number of cans in each bag by the total number of bags.
+
+Total number of cans = (Number of cans in each bag) x (Total number of bags)
+Total number of cans = 4 x (4 + 10)
+
+Simplifying the expression inside the parentheses:
+Total number of cans = 4 x 14
+
+Calculating the multiplication:
+Total number of cans = 56
+
+Therefore, Kaleb picked up a total of 56 cans.
+
+#### 56"
+"Mary had number0 Pokemon cards , and number1 were torn . Sam gave Mary number2 new Pokemon cards . How many Pokemon cards does Mary have now ?","Mary initially had 33 Pokemon cards. Out of those, 6 were torn. 
+
+To find out how many Pokemon cards Mary has now, we need to add the number of torn cards to the number of new cards Sam gave her.
+
+The number of torn cards is 6, and Sam gave her 23 new cards.
+
+So, the total number of Pokemon cards Mary has now can be calculated as:
+
+33 - 6 + 23 = <<33 - 6 + 23 = 50>> 50
+
+Therefore, Mary now has 50 Pokemon cards.
+
+#### 50"
+a box can hold number0 pieces of chalk . if there are number1 pieces of chalk how many boxes are full to hold all the chalk ?,"To find the number of boxes that are full to hold all the chalk, we need to divide the total number of pieces of chalk by the capacity of each box.
+
+Given:
+Capacity of each box = 18 pieces
+Total number of pieces of chalk = 3484
+
+To calculate the number of boxes:
+Number of boxes = Total number of pieces of chalk / Capacity of each box
+
+Substituting the given values:
+Number of boxes = 3484 / 18
+
+Performing the division:
+Number of boxes ≈ 193.5556
+
+Since we cannot have a fraction of a box, we need to round up to the nearest whole number. Therefore, there are approximately 194 boxes that are full to hold all the chalk.
+
+#### 194"
+"My dog had some bones . Then , he dug up number0 bones . Now he has number1 bones . How many bones did he start with ?","Let's assume the number of bones my dog started with is represented by the variable <<x>>. 
+
+According to the information given, my dog dug up 367 bones, so we can subtract this from the total number of bones he currently has: <<x - 367>>.
+
+We also know that my dog now has 860 bones, so we can set up the equation: x - 367 = <<x - 367 = 860>> 860.
+
+To find the value of x>>, we need to isolate it on one side of the equation. We can do this by adding 367 to both sides: <<x - 367 + 367 = <<x>>, we need to isolate it on one side of the equation. We can do this by adding 367 to both sides: <<x - 367 + 367 = 860 + 367>> 860 + 367.
+
+Simplifying the equation gives us: x = <<x = 1227>> 1227.
+
+Therefore, my dog started with 1227 bones.
+
+#### 1227"
+There are number0 baskets . There are number1 apples in each basket . How many apples are there in all ?,"To solve this problem, we need to multiply the number of baskets by the number of apples in each basket. 
+
+From the problem, we know that there are 37 baskets and each basket contains 17 apples. 
+
+So, we can calculate the total number of apples as follows:
+
+<< 37 * 17 >>
+
+This multiplication gives us the total number of apples. 
+
+Here is the step-by-step calculation:
+
+ 37 * 17 = << 37 * 17 = 639 >> 639 
+
+So, there are 639 apples in total. 
+
+#### 639"
+"Haley and her friends were recycling paper for their class . For every number0 pounds they recycled they earned one point . If Haley recycled number1 pounds and her friends recycled number2 pounds , how many points did they earn ?","To solve this math problem, we need to follow the rule that for every 3 pounds of paper recycled, one point is earned.
+
+First, let's calculate the points earned by Haley:
+
+ 1 / 1{3} = << 1 / 1{3} = 3.67 >> 3.67 
+
+Since we can't have a fraction of a point, we round this up to the nearest whole number, which is 4. So, Haley earned 4 points.
+
+Next, let's calculate the points earned by Haley's friends:
+
+ 1 / 6{3} = << 1 / 6{3} = 5.33 >> 5.33 
+
+Again, we round up to the nearest whole number, which is 6. So, Haley's friends earned 6 points.
+
+Adding these together, the total points earned by Haley and her friends is 4 (from Haley) + 6 (from her friends) = 10 points.
+
+#### 10"
+"Mrs. Hilt baked pies last weekend for a holiday dinner . She baked number0 pecan pies and number1 apples pies . If she wants to arrange all of the pies in rows of number2 pies each , how many rows will she have ?","To find the number of rows Mrs. Hilt will have, we need to divide the total number of pies by the number of pies in each row.
+
+First, let's calculate the total number of pies:
+16 + 14 = <<16 + 14 = 30>> 30
+
+Next, let's divide the total number of pies by the number of pies in each row:
+30 / 5 = <<30 / 5 = 6>> 6
+
+Therefore, Mrs. Hilt will have 6 rows of pies.
+
+#### 6"
+"Wendy picked number0 flowers for her friend ’ s wedding . She was making bouquets with number1 flowers in each one . If number2 of the flowers wilted before the wedding , how many bouquets could she still make ?","To find out how many bouquets Wendy could still make, we need to subtract the number of wilted flowers from the total number of flowers she picked. 
+
+Wendy picked 45 flowers for her friend's wedding and each bouquet contains 5 flowers. So, the total number of bouquets she could make is given by dividing the total number of flowers by the number of flowers in each bouquet.
+
+Total number of bouquets = Total number of flowers / Number of flowers in each bouquet
+
+Total number of bouquets = 45 / 5
+
+Total number of bouquets = 9
+
+However, before the wedding, 35 of the flowers wilted. To find out how many bouquets Wendy could still make, we need to subtract the number of wilted flowers from the total number of flowers.
+
+Number of bouquets Wendy could still make = Total number of bouquets - Number of wilted flowers
+
+Number of bouquets Wendy could still make = 9 - 35
+
+Number of bouquets Wendy could still make = -26
+
+Since it is not possible to have a negative number of bouquets, Wendy would not be able to make any bouquets with the remaining wilted flowers.
+
+#### 0"
+olivia had number0 math problems to complete . she spent about number1 minutes on each problem and then she spent number2 minutes checking her answers . how many minutes did she spend total ?,"To solve this problem, we need to calculate the total time spent by Olivia on each math problem and then add up these times. 
+
+Step 1: Calculate the time spent on each problem.
+
+Olivia spent about 4 minutes on each problem. Since there are 7 problems, we multiply 4 by 7.
+
+ 4 * 7 = << 4 * 7 = 28 >> 28 
+
+Step 2: Calculate the time spent checking the answers.
+
+Olivia spent 3 minutes checking her answers. Since she did this after each problem, we also multiply 3 by 7.
+
+ 3 * 7 = << 3 * 7 = 21 >> 21 
+
+Step 3: Add the times spent on each problem and checking the answers.
+
+We then add the two times together to find the total time spent.
+
+ 28 + 21 = << 28 + 21 = 49 >> 49 
+
+So, Olivia spent a total of 49 minutes on her math problems.
+
+#### 49"

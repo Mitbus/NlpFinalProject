@@ -1,0 +1,8 @@
+starts with >>        ^[^<]*>
+
+x in quotes           <<.*[a-zA-Z].*>>
+{}                    <<.*[{}].*>>
+""x""                 ""
+lips                  <<\d|\d>>
+no calcs              <<[^=]*>>
+douplicates           <<.*=.*=.*>>

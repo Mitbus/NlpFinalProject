@@ -1,0 +1,6 @@
+{
+    "description": "Template used for calculations with Saiga (short prompt in chat style).",
+    "prompt_input": "",
+    "prompt_no_input": "<s>system\nТы — Сайга, русскоязычный автоматический ассистент. Ты разговариваешь с людьми и помогаешь им.</s>\n<s>user\n{instruction} Распиши решение по шагам и выведи ответ в конце.</s>\n<s>bot\n",
+    "response_split": "<s>bot\n"
+}

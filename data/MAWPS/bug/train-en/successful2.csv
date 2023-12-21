@@ -1,0 +1,393 @@
+question,answer
+There are number0 oranges in a box . Deborah has number1 oranges in a bag . Susan takes number2 oranges out of the box . How many oranges are left in the box ?,"Initially, there are 55 oranges in the box. Deborah takes 11 oranges out of the box. So, the number of oranges left in the box is 55 - 11 = 44. Then, Susan takes an additional 35 oranges out of the box. Therefore, the final number of oranges left in the box is 44 - 35 = 9.
+
+#### 9"
+James has number0 balloons . Amy has number1 balloons . How many more balloons does James have than Amy ?,"To find out how many more balloons James has than Amy, we need to subtract the number of balloons Amy has from the number of balloons James has.
+
+James has 1222 balloons.
+Amy has 513 balloons.
+
+To find the difference, we subtract 513 from 1222:
+
+ 1222 - 513 = << 1222 - 513 = 709 >> 709 
+
+Therefore, James has 709 more balloons than Amy.
+
+#### 709"
+Wendy ran number0 miles and walked number1 miles . How much farther did Wendy run than walk ?,"To find out how much farther Wendy ran than walked, we need to subtract the distance she walked from the distance she ran.
+
+Distance Wendy ran = 19.833333333333332 miles
+Distance Wendy walked = 9.166666666666666 miles
+
+To find the difference, we subtract the distance walked from the distance ran:
+
+19.833333333333332 - 9.166666666666666 = 10.666666666666666
+
+Therefore, Wendy ran approximately 10.67 miles farther than she walked.
+
+#### 10.67"
+"A teacher had number0 worksheets to grade . If she graded number1 , but then another number2 were turned in , how many worksheets would she have to grade ?","The teacher initially had 7 worksheets to grade. She graded 2 of them. 
+
+To find out how many worksheets she would have to grade after another 46 were turned in, we need to add the number of worksheets she initially had with the number of worksheets that were turned in.
+
+So, we can calculate it as follows:
+
+7 + 46 = <<7 + 46 = 53>> 53
+
+Therefore, the teacher would have to grade 53 worksheets.
+
+#### 53"
+the number0 groups will also collect garbage from all the number1 houses in the city . if lizzie 's group covered number2 houses while the other group covered number3 how many more houses remain ?,"To find out how many more houses remain, we need to subtract the number of houses covered by Lizzie's group from the total number of houses in the city.
+
+Total number of houses in the city = 453
+Number of houses covered by Lizzie's group = 238
+
+To find the number of houses remaining, we subtract the number of houses covered by Lizzie's group from the total number of houses:
+
+453 - 238 = <<453 - 238 = 215>> 215
+
+Therefore, there are 215 more houses remaining. 
+
+#### 215"
+if simon needs to make number0 gift bags at a rate of number1 bags per day how many days does he need to finish making all the gift boxes ?,"To find the number of days Simon needs to finish making all the gift bags, we can use the formula:
+
+Number of days = Total number of gift bags / Bags made per day
+
+Given that Simon needs to make 519 gift bags at a rate of 42 bags per day, we can substitute these values into the formula:
+
+Number of days = 519 / 42
+
+Calculating this division gives us:
+
+Number of days = 12.357142857142858
+
+Since we cannot have a fraction of a day, we round up to the nearest whole number. Therefore, Simon needs approximately 13 days to finish making all the gift bags.
+
+#### 13"
+divide number0 balloons into number1 equal groups . how many balloons are there in each group ?,"To find out how many balloons are there in each group, we need to divide the total number of balloons (39) by the number of groups (7).
+
+Dividing 39 by 7 gives us:
+
+ 3 / 9{7} = << 3 / 9{7} = 5.57142857 >> 5.57142857 
+
+Since we cannot have a fraction of a balloon, we round this number to the nearest whole number.
+
+Rounding 5.57142857 to the nearest whole number gives us:
+
+<< 6 >>
+
+Therefore, there are 6 balloons in each group.
+
+#### 6"
+for halloween faye scored number0 pieces of candy . she ate number1 pieces the first night and then her sister gave her number2 more pieces . how many pieces of candy does faye have now ?,"To find out how many pieces of candy Faye has now, we need to add the number of pieces she initially had with the number of pieces her sister gave her.
+
+Faye initially had 47 pieces of candy.
+She ate 25 pieces on the first night.
+Her sister gave her 40 more pieces.
+
+To calculate the total number of pieces Faye has now, we can use the following equation:
+
+Total number of pieces = Initial number of pieces + Pieces eaten - Pieces given by sister
+
+Plugging in the values:
+Total number of pieces = 47 + (-25) + 40
+
+Simplifying the equation:
+Total number of pieces = 47 - 25 + 40
+Total number of pieces = 72
+
+Therefore, Faye has 72 pieces of candy now.
+
+#### 72"
+janice has number0 bottle caps that must be put away in boxes . douglas comes to help and brings number1 cookies to share with janice . if there are number2 boxes how many bottle caps must go in each box ?,"To find out how many bottle caps must go in each box, we need to divide the total number of bottle caps by the number of boxes.
+
+Given:
+- Janice has 316 bottle caps.
+- Douglas brings 17 cookies to share with Janice.
+- There are 79 boxes.
+
+First, we need to subtract the number of cookies from the total number of bottle caps:
+316 - 17 = <<316 - 17 = 299>> 299
+
+Now, we can divide the remaining number of bottle caps by the number of boxes:
+299 / 79 = <<299 / 79 = 3.7848101265822785>> 3.7848101265822785
+
+Since we cannot have a fraction of a bottle cap in a box, we need to round down to the nearest whole number. Therefore, each box should contain 3 bottle caps.
+
+#### 3"
+Maggi had number0 packages of cupcakes . There are number1 cupcakes in each package . She ate number2 cupcakes . How many are left ?,"Maggi initially had 3 packages of cupcakes, with 4 cupcakes in each package. To find out how many cupcakes she had in total, we can multiply the number of packages by the number of cupcakes per package: 3 * 4 = <<3 * 4 = 12>> 12.
+
+Next, we need to determine how many cupcakes Maggi ate. The problem states that she ate 5 cupcakes.
+
+To find out how many cupcakes are left, we subtract the number of cupcakes eaten from the total number of cupcakes: 12 - 5 = <<12 - 5 = 7>> 7.
+
+Therefore, there are 7 cupcakes left.
+
+#### 7"
+"Mike joined his school 's band . He bought a trumpet for number0 , and a song book which was number1 . How much did Mike spend at the music store ?","To find out how much Mike spent at the music store, we need to add the cost of the trumpet and the cost of the song book.
+
+The cost of the trumpet is <<145.
+The cost of the song book is >>16.
+
+To find the total amount Mike spent, we can add these two amounts together:
+
+<<145 + >>16 = <<161
+
+Therefore, Mike spent >>161 at the music store.
+
+#### 161"
+"Mike joined his school 's band . He bought a trumpet for number0 , and a song book which was number1 . How much did Mike spend at the music store ?","To find out how much Mike spent at the music store, we need to add the cost of the trumpet and the cost of the song book.
+
+The cost of the trumpet is <<145.
+The cost of the song book is >>16.
+
+To find the total amount Mike spent, we can add these two amounts together:
+
+<<145 + >>16 = <<161
+
+Therefore, Mike spent >>161 at the music store.
+
+#### 161"
+number0 the students in the band are in the trumpet section . number1 the students in the band are in the trombone section . What fraction of the students in the band are in either the trumpet section or the trombone section ?,"To find the fraction of students in either the trumpet section or the trombone section, we need to add the fractions representing each section and subtract their intersection.
+
+The fraction of students in the trumpet section is 0.5, and the fraction of students in the trombone section is 0.125.
+
+To find the intersection, we multiply the fractions: 0.5 * 0.125 = 0.0625.
+
+Now, we can calculate the fraction of students in either section by adding the fractions and subtracting their intersection: 0.5 + 0.125 - 0.0625 = 0.5625.
+
+Therefore, approximately 56.25% of the students in the band are in either the trumpet section or the trombone section.
+
+#### 0.5625"
+"Joe has number0 oranges that must be put away in boxes . Daniel comes to help and brings number1 cookies to share with Joe . If there are number2 boxes , how many oranges must go in each box ?","To find out how many oranges must go in each box, we need to divide the total number of oranges by the number of boxes.
+
+The total number of oranges Joe has is 45.
+
+Joe and Daniel together have 45 + 16 = 61 items (oranges and cookies combined).
+
+Since there are 9 boxes, we divide the total number of items by the number of boxes: 61 / 9 = 6.77777777778.
+
+However, since we cannot have a fraction of an orange, we round down to the nearest whole number.
+
+Therefore, each box should contain 6 oranges.
+
+#### 6"
+There are number0 erasers in a box . Jane has number1 erasers in a bag . Doris takes number2 erasers out of the box . How many erasers are left in the box ?,"Initially, there are 69 erasers in the box. 
+Jane takes 15 erasers out of the box, so the number of erasers left in the box is 69 - 15 = 54.
+Then, Doris takes an additional 54 erasers out of the box.
+To find the number of erasers left in the box, we subtract Doris's amount from the previous total: 54 - 54 = 0.
+
+Therefore, there are 0 erasers left in the box.
+
+#### 0"
+"There were number0 friends playing a video game online when number1 players quit . If each player left had number2 lives , how many lives did they have total ?","Initially, there were 13 friends playing the video game online. Then, 8 players quit the game. 
+
+To find out how many lives they had in total, we need to calculate the number of lives each player left had and then sum them up.
+
+Each player left had 6 lives, and there were 8 players who quit. 
+
+So, the total number of lives they had is calculated as follows:
+
+6 * 8 = <<6 * 8 = 48>> 48
+
+Therefore, they had a total of 48 lives.
+
+#### 48"
+Willie has number0 bananas . Charles has number1 bananas . He loses number2 . How many bananas will Willie have ?,"Willie starts with 48 bananas. Charles has 14 bananas but loses 35, so he will have 14 - 35 = -21 bananas. 
+
+To find out how many bananas Willie will have, we need to add the number of bananas Charles lost to the number of bananas Willie started with. 
+
+So, Willie will have 48 + (-21) = 27 bananas.
+
+#### 27"
+David had number0 dollars invested for number1 of a year at a simple rate of number2 % . How much interest did he earn ?,"To calculate the interest earned by David, we can use the formula for simple interest:
+
+Interest = Principal * Rate * Time
+
+Given:
+Principal (P) = <<4000
+Rate (R) = 6% = 0.06 (decimal form)
+Time (T) = 0.25 years
+
+Substituting these values into the formula, we get:
+
+Interest = >>4000 * 0.06 * 0.25
+
+Calculating this expression:
+
+Interest = <<600
+
+Therefore, David earned >>600 in interest.
+
+#### 600"
+Sara had number0 quarters and number1 dimes in her bank . Her sister borrowed number2 dimes . How many dimes does Sara have now ?,"Sara initially had 4 quarters and 8 dimes, which is a total of 4 + 8 = <<4 + 8 = 12>> 12 coins.
+Her sister borrowed 4 dimes, so we need to subtract that from the total number of coins Sara had.
+Therefore, Sara now has 12 - 4 = <<12 - 4 = 8>> 8 dimes. 
+
+#### 8"
+"Sally earns number0 an hour cleaning houses . If she works for number1 hours , how much money will she make ?","To find out how much money Sally will make, we can multiply her hourly rate by the number of hours she works.
+
+Sally earns <<12 an hour and works for 5 hours. 
+
+We can calculate her total earnings by multiplying her hourly rate by the number of hours worked:
+
+>>12/hour * 5 hours = <<60
+
+Therefore, Sally will make >>60. 
+
+#### 60"
+"There were number0 friends playing a video game online when number1 players quit . If each player left had number2 lives , how many lives did they have total ?","Initially, there were 16 friends playing the video game online. Then, 7 players quit the game. 
+
+To find out how many lives they had in total, we need to calculate the number of lives each player left had and then sum them up.
+
+Since each player left had 8 lives, we can multiply the number of players who quit (7) by the number of lives each player had (8).
+
+ 7 * 8 = << 7 * 8 = 56 >> 56 
+
+Therefore, the total number of lives they had is 56.
+
+#### 56"
+"Dan had number0 baseball cards , and number1 were torn . Sam bought number2 of Dan 's baseball cards . How many baseball cards does Dan have now ?","To find out how many baseball cards Dan has now, we need to subtract the number of torn cards and the number of cards Sam bought from the initial number of cards Dan had.
+
+Dan initially had 97 baseball cards.
+Out of those, 8 were torn.
+So, the number of usable cards Dan had initially is 97 - 8 = <<97 - 8 = 89>> 89.
+
+Sam bought 15 of Dan's baseball cards.
+Therefore, we need to subtract this number from the usable cards Dan had initially: 89 - 15 = <<89 - 15 = 74>> 74.
+
+Hence, Dan now has 74 baseball cards.
+
+#### 74"
+An ice skating rink charges number0 dollars for admission and number1 dollars to rent skates . Jill can purchase a new pair of skates for number2 dollars . How many times would she need to go the rink to justify buying the skates rather than renting a pair ?,"To determine how many times Jill would need to go to the rink to justify buying skates instead of renting, we need to compare the total cost of renting skates each time versus the cost of purchasing skates.
+
+Let's assume Jill goes to the rink x times. 
+
+The cost of renting skates each time is <<2, so the total cost of renting skates x times would be 2 * x dollars.
+
+On the other hand, if Jill decides to purchase skates, she would only need to pay >>5 once.
+
+To justify buying skates rather than renting, the total cost of renting skates x times should be greater than or equal to the cost of purchasing skates.
+
+So we can set up an inequality: 2 * x >= 5
+
+Now let's solve for x:
+
+Divide both sides of the inequality by 2:
+x >= 5/2
+
+Since we can't have a fraction of a visit, we round up to the nearest whole number. Therefore, Jill would need to go to the rink at least 3 times (since 5/2 rounds up to 3) in order to justify buying skates instead of renting.
+
+#### 3"
+Irene just bought a new lamp for her bedside table . The old lamp was number0 foot tall and the new lamp is number1 feet tall . How much taller is the new lamp than the old lamp ?,"To find out how much taller the new lamp is than the old lamp, we need to subtract the height of the old lamp from the height of the new lamp.
+
+The height of the old lamp is 1 foot, and the height of the new lamp is 2.3333333333333335 feet.
+
+To subtract 1 foot from 2.3333333333333335 feet, we can write it as a subtraction problem:
+
+<<2.3333333333333335 - 1>>
+
+Subtracting these two numbers gives us:
+
+<<1.3333333333333335>>
+
+Therefore, the new lamp is approximately 1.33 feet taller than the old lamp.
+
+#### 1.33"
+Tim 's cat had kittens . He gave number0 to Jessica and number1 to Sara . He now has number2 kittens . How many kittens did he have to start with ?,"Let's assume that Tim started with X number of kittens.
+He gave 3 kittens to Jessica and 6 kittens to Sara, which means he gave away a total of 3 + 6 = 9 kittens.
+After giving away these kittens, Tim now has 9 kittens remaining.
+Therefore, the equation representing this situation is X - 9 = 0.
+To solve for X, we can add 9 to both sides of the equation:
+X - 9 + 9 = 0 + 9
+This simplifies to X = 9.
+So, Tim initially had 9 kittens. 
+
+#### 9"
+An MP3 player costs number0 dollars . The sales tax is number1 dollars . What is the percent of sales tax ?,"To find the percent of sales tax, we need to calculate the ratio of the sales tax amount to the cost of the MP3 player and then convert it to a percentage.
+
+The sales tax is given as <<2 and the cost of the MP3 player is >>40.
+
+To calculate the ratio, we divide the sales tax by the cost of the MP3 player:
+
+<<2 / >>40 = 0.05
+
+To convert this ratio to a percentage, we multiply it by 100:
+
+0.05 * 100 = 5
+
+Therefore, the percent of sales tax is 5%.
+
+#### 5"
+Theresa has number0 crayons . Janice has number1 crayons . She shares number2 with Nancy . How many crayons will Theresa have ?,"Theresa starts with 32 crayons. Janice has 12 crayons. 
+
+Theresa shares 13 crayons with Nancy. 
+
+To find out how many crayons Theresa will have, we need to add the number of crayons she started with (32) and the number of crayons she shared with Nancy (13). 
+
+ 32 + 13 = << 32 + 13 = 45 >> 45 
+
+Therefore, Theresa will have 45 crayons. 
+
+#### 45"
+"There were number0 friends playing a video game online when number1 players quit . If each player left had number2 lives , how many lives did they have total ?","Initially, there were 11 friends playing the video game online. Then, 5 players quit the game. 
+
+To find out how many lives they had in total, we need to calculate the number of lives each player left had and then sum them up.
+
+Since each player left had 5 lives, we can multiply the number of players who left (5) by the number of lives each player had (5).
+
+ 5 * 5 = << 5 * 5 = 25 >> 25 
+
+Therefore, the total number of lives they had is 25.
+
+#### 25"
+"A teacher had number0 worksheets to grade . If she graded number1 , but then another number2 were turned in , how many worksheets would she have to grade ?","The teacher initially had 29 worksheets to grade. She graded 25 of them. 
+
+To find out how many worksheets she would have to grade after another 29 were turned in, we need to add the number of worksheets she initially had with the number of additional worksheets turned in.
+
+So, we add 29 (initial worksheets) and 29 (additional worksheets) together:
+
+29 + 29 = <<29 + 29 = 58>> 58
+
+Therefore, the teacher would have to grade a total of 58 worksheets.
+
+#### 58"
+sam has number0 power ranger stickers . he bundles them up in number1 boxes . if there are number2 power ranger stickers in the first box how many more power ranger stickers are there in the second box than the first box ?,"To find out how many more power ranger stickers are there in the second box than the first box, we need to subtract the number of stickers in the first box from the total number of stickers.
+
+The total number of stickers is given as 58, and the number of stickers in the first box is given as 23. 
+
+To find the number of stickers in the second box, we can subtract the number of stickers in the first box from the total number of stickers:
+
+58 - 23 = <<58 - 23 = 35>> 35
+
+Therefore, there are 35 more power ranger stickers in the second box than in the first box.
+
+#### 35"
+antonia has number0 barbie dolls . she packs away them in number1 wardrobes . if there are number2 barbie dolls in the first wardrobe how many more barbie dolls are there in the second wardrobe than the first ?,"To find out how many more Barbie dolls are in the second wardrobe than the first, we need to subtract the number of dolls in the first wardrobe from the total number of dolls.
+
+The total number of Barbie dolls is given as 79, and the number of dolls in the first wardrobe is given as 35. 
+
+To find the number of dolls in the second wardrobe, we can subtract the number of dolls in the first wardrobe from the total number of dolls:
+
+ 79 - 35 = << 79 - 35 = 44 >> 44 
+
+Therefore, there are 44 more Barbie dolls in the second wardrobe than in the first.
+
+#### 44"
+a ballet class wants to divide its number0 members into some large groups at number1 members each and some small groups at number2 members each . in order to make the least number of groups how many large groups should be made ?,"To find the least number of groups, we need to divide the total number of members by the size of each group and then round up to the nearest whole number.
+
+Let's start by finding the number of large groups. We can divide the total number of members (90) by the size of each large group (7):
+
+ 9 / 0{7} = << 9 / 0{7} = 12.8571428571 >> 12.8571428571 
+
+Since we cannot have a fraction of a group, we need to round up to the nearest whole number. Therefore, we should have 13 large groups.
+
+Next, let's find the number of small groups. We can divide the remaining members (after forming the large groups) by the size of each small group (3):
+
+ 9 / 0 - (13 * 7)}{3} = << 9 / 0 - (13 * 7)}{3} = 5 >> 5 
+
+So, we have 5 small groups.
+
+Therefore, in order to make the least number of groups, we should have 13 large groups. 
+
+#### 13"

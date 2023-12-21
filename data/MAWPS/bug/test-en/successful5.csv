@@ -1,0 +1,273 @@
+,question,answer
+0,the grasshopper and the frog had a jumping contest . the grasshopper jumped number0 inches and the frog jumped number1 inches . how much farther did the frog jump than the grasshopper ?,"To find out how much farther the frog jumped than the grasshopper, we need to subtract the distance jumped by the grasshopper from the distance jumped by the frog.
+
+The distance jumped by the grasshopper is given as 9 inches, and the distance jumped by the frog is given as 12 inches.
+
+So, to find out how much farther the frog jumped, we can subtract 9 inches from 12 inches:
+
+12 - 9 = <<12 - 9 = 3>> 3
+
+Therefore, the frog jumped 3 inches farther than the grasshopper.
+
+#### 3"
+1,jake has number0 fewer peaches than steven who has number1 more peaches than jill . steven has number2 peaches . how many peaches does jake have ?,"Let's assume that the number of peaches Jake has is represented by the variable <<J>>, the number of peaches Steven has is represented by the variable <<S>>, and the number of peaches Jill has is represented by the variable <<Jill>>.
+
+According to the given information, we know that Steven has 14 more peaches than Jill, so we can write an equation as:
+
+S = <<S = Jill + 14>> Jill + 14
+
+We also know that Steven has 15 peaches, so we can substitute <<S>> with 15 in the equation:
+
+15 = <<15 = Jill + 14>> Jill + 14
+
+To find out how many peaches Jill has, we need to solve this equation. Subtracting 14 from both sides gives us:
+
+15 - 14 = <<15 - 14 = Jill>> Jill
+
+Simplifying the left side gives us:
+
+1 = <<1 = Jill>> Jill
+
+So, Jill has 1 peach.
+
+Now, we know that Jake has 7 fewer peaches than Steven. We can represent this relationship with another equation:
+
+J = <<J = S - 7>> S - 7
+
+Substituting <<S>> with 15 (since Steven has 15 peaches) in the equation gives us:
+
+J = <<J = 15 - 7>> 15 - 7
+
+Simplifying the right side gives us:
+
+J = <<J = 8>> 8
+
+Therefore, Jake has 8 peaches.
+
+#### 8"
+2,you have number0 dollars . how many packs of dvds can you buy if each pack costs number1 dollars ?,"To find out how many packs of DVDs you can buy with <<104, we need to divide the total amount of money by the cost of each pack.
+
+Let's set up the equation:
+
+<<104 / 26 = x>>
+
+Now, we can solve for x by performing the division:
+
+<<104 / 26 = 4>>
+
+Therefore, you can buy 4 packs of DVDs with >>104.
+
+#### 4"
+3,a farmer had number0 tomatoes in his garden . if he picked number1 of them yesterday and number2 today . how many will he have left after today ?,"To find out how many tomatoes the farmer will have left after today, we need to subtract the number of tomatoes he picked today from the total number of tomatoes he had before.
+
+The farmer initially had 171 tomatoes in his garden.
+He picked 134 of them yesterday.
+Therefore, the number of tomatoes he had before today is 171 - 134 = <<171 - 134 = 37>> 37.
+
+Today, he picked an additional 30 tomatoes.
+To find out how many tomatoes he will have left after today, we subtract this number from the previous result: 37 - 30 = <<37 - 30 = 7>> 7.
+
+Therefore, the farmer will have 7 tomatoes left after today.
+
+#### 7"
+4,for the walls of the house he would use number0 large planks of wood . if each plank of wood needs number1 pieces of nails to be secured and in addition he needs number2 nails are needed for some smaller planks . how many nails does john need for the house wall ?,"To find the total number of nails John needs for the house wall, we need to calculate the number of nails required for the large planks and the smaller planks separately, and then add them together.
+
+First, let's calculate the number of nails needed for the large planks. Since each plank requires 17 nails, and John is using 13 large planks, we can multiply these two values together:
+
+ 17 * 13 = << 17 * 13 = 221 >> 221 
+
+So, John needs 221 nails for the large planks.
+
+Next, let's calculate the number of nails needed for the smaller planks. We are given that he needs an additional 8 nails for these smaller planks.
+
+Therefore, the total number of nails needed for the house wall is:
+
+ 221 + 8 = << 221 + 8 = 229 >> 229 
+
+Hence, John needs 229 nails for the house wall.
+#### 229"
+5,allan brought number0 balloons and jake brought number1 balloons to the park . jake then bought number2 more balloons at the park . how many more balloons did allan have than jake in the park ?,"Allan brought 6 balloons to the park and Jake brought 2 balloons. Jake then bought 3 more balloons at the park. To find out how many more balloons Allan had than Jake in the park, we need to calculate the difference between the number of balloons each person has.
+
+Allan initially had 6 balloons, and Jake initially had 2 balloons. After Jake bought 3 more balloons, he would have a total of 2 + 3 = <<2 + 3 = 5>> 5 balloons.
+
+To find the difference between the number of balloons Allan and Jake have, we subtract the number of balloons Jake has from the number of balloons Allan has: 6 - 5 = <<6 - 5 = 1>> 1.
+
+Therefore, Allan had 1 more balloon than Jake in the park.
+
+#### 1"
+6,he then went to see the oranges being harvested . he found out that they harvested number0 sacks of oranges . how many sacks did they harvest per day if they harvested for a total of number1 days ?,"To find out how many sacks of oranges were harvested per day, we need to divide the total number of sacks harvested by the number of days.
+
+Total number of sacks harvested = 56
+Number of days = 14
+
+To find the number of sacks harvested per day, we can use the formula:
+
+Number of sacks per day = Total number of sacks harvested / Number of days
+
+Substituting the given values into the formula:
+
+Number of sacks per day = 56 / 14
+
+Calculating this expression:
+
+Number of sacks per day = << 4 >>
+
+#### 4"
+7,helen the hippo and her friends are preparing for thanksgiving at helen 's house . helen baked number0 chocolate chip cookies yesterday and number1 raisin cookies and number2 chocolate chip cookies this morning . how many chocolate chip cookies did helen bake ?,"To find out how many chocolate chip cookies Helen baked, we need to add up the number of chocolate chip cookies she baked yesterday and this morning.
+
+Helen baked 90 chocolate chip cookies yesterday and 484 chocolate chip cookies this morning. 
+
+To find the total number of chocolate chip cookies, we add these two quantities:
+
+90 + 484 = <<90 + 484 = 574>> 574
+
+Therefore, Helen baked 574 chocolate chip cookies.
+
+#### 574"
+8,paul got a box of number0 crayons for his birthday . during the school year he gave number1 crayons to his friends while he lost number2 crayons . how many more crayons did he lose than those he gave to his friends ?,"To find out how many more crayons Paul lost than those he gave to his friends, we need to subtract the number of crayons he gave to his friends from the number of crayons he lost.
+
+Number of crayons Paul gave to his friends: 90
+Number of crayons Paul lost: 412
+
+To find the difference, we subtract the number of crayons given to friends from the number of crayons lost:
+
+412 - 90 = <<412 - 90 = 322>> 322
+
+Therefore, Paul lost 322 more crayons than those he gave to his friends.
+
+#### 322"
+9,paige raised number0 goldfish in the pond but stray cats loved eating them . number1 were eaten . how many goldfish remained ?,"To find out how many goldfish remained after 5 were eaten, we need to subtract the number of goldfish eaten from the total number of goldfish Paige raised.
+
+Total number of goldfish Paige raised = 15
+Number of goldfish eaten = 5
+
+To find the number of goldfish remaining, we subtract the number of goldfish eaten from the total number of goldfish:
+
+ 15 - 5 = << 15 - 5 = 10 >> 10 
+
+Therefore, there are 10 goldfish remaining. 
+#### 10"
+10,paco ate number0 cookies . if he had number1 cookies initially how many cookies did paco have left ?,"Let's solve the problem step by step:
+
+1. Paco initially had 37 cookies.
+2. Paco ate 36 cookies.
+3. To find out how many cookies Paco has left, we need to subtract the number of cookies he ate from the initial number of cookies he had.
+
+Calculations:
+ 37 - 36 = << 37 - 36 = 1 >> 1 
+
+Therefore, Paco has 1 cookie left.
+
+#### 1"
+11,after resting they decided to go for a swim . the depth of the water is number0 times dean 's height . dean is number1 feet shorter than ron . if ron stands at number2 feet how deep was the water ?,"Let's break down the information given in the question:
+
+1. The depth of the water is 2 times Dean's height.
+2. Dean is 8 feet shorter than Ron.
+3. Ron stands at 14 feet.
+
+To find out how deep the water is, we need to determine Dean's height first.
+
+Let's assume Dean's height as ""D"" feet. According to the given information, Ron's height would be ""D + 8"" feet.
+
+Since the depth of the water is 2 times Dean's height, we can calculate it as ""2D"" feet.
+
+Now, we know that Ron stands at 14 feet, so we can set up an equation:
+
+""D + 8 = 14""
+
+Solving this equation will give us Dean's height (D).
+
+""D = 14 - 8""
+
+Calculating this equation gives us:
+
+""D = 6""
+
+Now that we know Dean's height is 6 feet, we can find the depth of the water by multiplying it by 2:
+
+""2D = 2 * 6""
+
+Calculating this equation gives us:
+
+""2D = 12""
+
+Therefore, the depth of the water is 12 feet.
+
+#### 12"
+12,there are some bananas in philip 's banana collection . if the bananas are organized into number0 groups of size number1 how many bananas does he have in his collection ?,"To find the total number of bananas in Philip's collection, we need to multiply the number of groups by the size of each group.
+
+Number of groups: 140
+Size of each group: 187
+
+To calculate the total number of bananas, we can use the formula:
+
+Total number of bananas = Number of groups * Size of each group
+
+Plugging in the values:
+
+Total number of bananas = 140 * 187
+
+Calculating this expression:
+
+ 140 * 187 = << 140 * 187 = 26180 >> 26180 
+
+Therefore, Philip has 26,180 bananas in his collection.
+#### 26180"
+13,zachary did number0 push-ups and number1 crunches in gym class today . david did number2 more push-ups but number3 less crunches than zachary . how many push-ups did david do ?,"Let's start by finding out how many push-ups Zachary did. We are given that Zachary did 59 push-ups.
+
+Next, we need to determine how many push-ups David did. We are told that David did 19 more push-ups than Zachary. To find this, we can add 19 to the number of push-ups Zachary did: 59 + 19 = <<59 + 19 = 78>> 78.
+
+Therefore, David did 78 push-ups.
+
+#### 78"
+14,baker made number0 cakes . he sold number1 of them and bought number2 new cakes . how many more cakes did baker buy than those he sold ?,"To find out how many more cakes Baker bought than those he sold, we need to subtract the number of cakes he sold from the number of cakes he bought.
+
+Baker sold 91 cakes and bought 154 new cakes. 
+
+So, the calculation would be:
+
+ 154 - 91 = << 154 - 91 = 63 >> 63 
+
+Therefore, Baker bought 63 more cakes than those he sold.
+
+#### 63"
+15,frank had number0 pieces of candy . if he put them equally into number1 bags how many pieces of candy are in each bag ?,"To solve this problem, we need to divide the total number of candies by the number of bags. 
+
+Given that Frank has 42 pieces of candy and he wants to put them equally into 2 bags, we can calculate the number of candies in each bag using the division operation.
+
+Here's how we can do it:
+
+1. First, we need to determine the total number of candies Frank has. In this case, it's 42.
+2. Next, we determine the number of bags Frank is using. Here, it's 2.
+3. We then divide the total number of candies by the number of bags. In this case, it's << 42 / 2 >>.
+
+By performing this calculation, we find that each bag will contain << 21 >> pieces of candy. Therefore, Frank should put << 21 >> candies in each bag.
+
+#### 21"
+16,during summer break number0 kids from lawrence county go to camp and the other number1 kids stay home . an additional number2 kids from outside the county attended the camp . how many kids in total attended the camp ?,"To solve the problem, we need to add up the total number of kids from Lawrence County who went to camp and the total number of kids from outside the county who attended the camp.
+
+From the problem, we know that:
+
+- 34044 kids from Lawrence County went to camp.
+- 424944 kids from outside Lawrence County attended the camp.
+
+To find the total number of kids who attended the camp, we add these two numbers together:
+
+ 34044 + 424944 = << 34044 + 424944 = 458988 >> 458988 
+
+So, a total of 458988 kids attended the camp.
+
+#### 458988"
+17,during summer break number0 kids from lawrence county go to camp and the other number1 kids stay home . an additional number2 kids from outside the county attended the camp . about how many kids are in lawrence county ?,"Let's denote the total number of kids in Lawrence County as <<x>>. This means that the number of kids who go to camp and stay home is <<x>>.
+
+We know that 610769 kids go to camp and the other 590796 kids stay home. Since these kids are from Lawrence County, we can write the equation as follows:
+
+x = <<x = 610769 + 590796>> 610769 + 590796
+
+Solving this equation gives us:
+
+x = <<x = 1201565>> 1201565
+
+So, there are approximately 1,201,565 kids in Lawrence County.
+
+#### 1201565"

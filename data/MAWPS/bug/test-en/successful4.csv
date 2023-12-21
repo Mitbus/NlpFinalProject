@@ -1,0 +1,535 @@
+,question,answer
+0,every day ryan spends number0 hours on learning english and number1 hours on learning chinese . if he learns for number2 days how many hours does he spend on learning english and chinese in all ?,"To find out how many hours Ryan spends on learning English and Chinese in total, we need to calculate the total number of hours he spends on each subject separately and then add them together.
+
+Ryan spends 6 hours per day on learning English and 7 hours per day on learning Chinese. To find the total number of hours he spends on learning English over 5 days, we can multiply the number of hours per day by the number of days:
+
+6 * 5 = <<6 * 5 = 30>> 30
+
+Similarly, to find the total number of hours he spends on learning Chinese over 5 days, we can multiply the number of hours per day by the number of days:
+
+7 * 5 = <<7 * 5 = 35>> 35
+
+Finally, to find the total number of hours he spends on learning English and Chinese in all, we add the two totals together:
+
+30 + 35 = <<30 + 35 = 65>> 65
+
+Therefore, Ryan spends a total of 65 hours on learning English and Chinese over 5 days.
+
+#### 65"
+1,number0 red peaches number1 yellow peaches and number2 green peaches are in the basket . how many peaches are in the basket ?,"To find the total number of peaches in the basket, we need to add the number of red peaches, yellow peaches, and green peaches together.
+
+Given:
+Number of red peaches = 7
+Number of yellow peaches = 15
+Number of green peaches = 8
+
+To find the total number of peaches:
+Total number of peaches = Number of red peaches + Number of yellow peaches + Number of green peaches
+
+Substituting the given values:
+Total number of peaches = 7 + 15 + 8
+
+Calculating:
+Total number of peaches = 30
+
+#### 30"
+2,jack received number0 emails and sent number1 letters in the morning . he then received number2 emails and sent number3 letters in the afternoon . how many emails did jack send in the day ?,"To find out how many emails Jack sent in the day, we need to add up the number of emails he sent in the morning and afternoon.
+
+In the morning, Jack sent 2 letters. Since each letter corresponds to one email, he also sent 2 emails in the morning.
+
+In the afternoon, Jack sent 8 letters. Again, since each letter corresponds to one email, he also sent 8 emails in the afternoon.
+
+To find the total number of emails Jack sent in the day, we add the number of emails he sent in the morning and afternoon: 
+
+2 + 8 = <<2 + 8 = 10>> 10
+
+Therefore, Jack sent a total of 10 emails in the day.
+
+#### 10"
+3,jake has number0 fewer peaches and number1 more apples than steven . steven has number2 peaches and number3 apples . how many apples does jake have ?,"Let's start by finding out how many peaches Jake has. We know that Jake has 13 fewer peaches than Steven, who has 9 peaches. To find the number of peaches Jake has, we subtract 13 from Steven's number of peaches.
+
+ 9 - 13 = << 9 - 13 = -4 >> -4 
+
+Since it doesn't make sense to have a negative number of peaches, we can conclude that Jake does not have any peaches.
+
+Next, let's determine how many apples Jake has. We are told that Jake has 3 more apples than Steven, who has 8 apples. To find the number of apples Jake has, we add 3 to Steven's number of apples.
+
+ 8 + 3 = << 8 + 3 = 11 >> 11 
+
+Therefore, Jake has 11 apples.
+
+#### 11"
+4,baker made number0 pastries and number1 cakes . if he sold number2 cakes and number3 pastries how many pastries would baker still have ?,"To find out how many pastries Baker would still have, we need to subtract the number of pastries he sold from the total number of pastries he made.
+
+The total number of pastries Baker made is given as 56.
+
+Baker sold 29 pastries, so we subtract 29 from the total number of pastries:
+
+56 - 29 = <<56 - 29 = 27>> 27
+
+Therefore, Baker would still have 27 pastries. 
+
+#### 27"
+5,kelly has number0 nintendo games and number1 sony games . how many sony games does she need to give away so that she will have number2 sony games left ?,"To find out how many Sony games Kelly needs to give away, we can subtract the desired number of Sony games from her current total.
+
+Kelly currently has 132 Sony games and wants to have 31 Sony games left. 
+
+So, we need to subtract 31 from 132:
+
+ 132 - 31 = << 132 - 31 = 101 >> 101 
+
+Therefore, Kelly needs to give away 101 Sony games in order to have 31 Sony games left.
+
+#### 101"
+6,randy has number0 blocks . he uses number1 blocks to build a tower and number2 blocks to build a house . how many more blocks did he use to build the tower than he did to build the house ?,"To find out how many more blocks Randy used to build the tower than he did to build the house, we need to subtract the number of blocks used for the house from the number of blocks used for the tower.
+
+Number of blocks used for the tower: 33
+Number of blocks used for the house: 13
+
+Subtracting the number of blocks used for the house from the number of blocks used for the tower:
+33 - 13 = <<33 - 13 = 20>> 20
+
+Therefore, Randy used 20 more blocks to build the tower than he did to build the house.
+
+#### 20"
+7,there are many different books in the ' crazy silly school ' series . if you have read number0 of the books and are yet to read number1 books how many books are there in the ' crazy silly school ' series ?,"To find the total number of books in the 'Crazy Silly School' series, we need to add the number of books that have been read (13) to the number of books yet to be read (8).
+
+ 13 + 8 = << 13 + 8 = 21 >> 21 
+
+Therefore, there are 21 books in the 'Crazy Silly School' series.
+
+#### 21"
+8,you have read number0 books from the ' crazy silly school ' series . if there are a total of number1 different books in the ' crazy silly school ' series how many more do you still have to read ?,"To find out how many more books you still have to read from the 'Crazy Silly School' series, you need to subtract the number of books you have already read from the total number of books in the series.
+
+Let's denote the number of books you still have to read as ""x"". We know that you have already read 8 books and there are a total of 14 different books in the series.
+
+So, the equation representing this situation is:
+
+ x = << x = 14 - 8 >> 14 - 8 
+
+Now, let's solve for ""x"":
+
+ x = << x = 6 >> 6 
+
+Therefore, you still have to read 6 more books from the 'Crazy Silly School' series.
+
+#### 6"
+9,the school is planning a field trip . the school has number0 classrooms . there are number1 students in the school and number2 seats on each school bus . if number3 students do n't want to go for the trip how many students are going on the trip ?,"To find out how many students are going on the trip, we need to subtract the number of students who don't want to go from the total number of students in the school.
+
+Given:
+- Number of classrooms: 102
+- Total number of students: 11
+
+We can calculate the number of students going on the trip as follows:
+
+1. Calculate the total number of seats on all school buses:
+   Total seats = Number of classrooms * Seats per bus
+   Total seats = 102 * 99
+
+2. Calculate the number of students who don't want to go on the trip:
+   Students not going = 8
+
+3. Calculate the number of students going on the trip:
+   Students going = Total number of students - Students not going
+   Students going = 11 - 8
+
+#### 3"
+10,frank had some pieces of candy . if he put them into number0 bags with number1 pieces in each bag how many pieces of candy did he have ?,"To find the total number of pieces of candy Frank had, we need to multiply the number of bags by the number of pieces in each bag. 
+
+Given:
+Number of bags = 26
+Number of pieces in each bag = 33
+
+To calculate the total number of pieces of candy:
+Total = Number of bags * Number of pieces in each bag
+
+Substituting the given values:
+Total = 26 * 33
+
+Calculating the product:
+Total = 858
+
+Therefore, Frank had 858 pieces of candy.
+
+#### 858"
+11,a grocery store had number0 bottles of regular soda and number1 bottles of diet soda . how many more bottles of diet soda than regular soda did they have ?,"To find out how many more bottles of diet soda there were than regular soda, we need to subtract the number of regular soda bottles from the number of diet soda bottles.
+
+Number of regular soda bottles: 22
+Number of diet soda bottles: 61
+
+To find the difference, we subtract the number of regular soda bottles from the number of diet soda bottles:
+
+61 - 22 = <<61 - 22 = 39>> 39
+
+Therefore, they had 39 more bottles of diet soda than regular soda.
+
+#### 39"
+12,last week fred had number0 dollars and jason had number1 dollars . jason washed cars over the weekend and now has number2 dollars . how much money did jason make washing cars ?,"To find out how much money Jason made washing cars, we need to calculate the difference between his current amount of money and the amount he had last week.
+
+Jason had 19 dollars last week and now has 33 dollars. To find the difference, we subtract the initial amount from the final amount:
+
+<<33 - >>19 = <<14
+
+Therefore, Jason made >>14 washing cars.
+
+#### 14"
+13,last week fred had number0 dollars and jason had number1 dollars . over the weekend fred delivered newspapers earning number2 dollars and washed cars earning number3 dollars . how much money does fred have now ?,"To find out how much money Fred has now, we need to add the amount of money he had last week to the amount he earned over the weekend.
+
+Fred had 47 dollars last week.
+He earned 111 dollars delivering newspapers.
+He also earned 34 dollars washing cars.
+
+To calculate how much money Fred has now, we can add these amounts together:
+
+47 + >>111 + <<34 = <<47 + >>111 + <<34 = >> 192
+
+Therefore, Fred now has 192 dollars.
+
+#### 192"
+14,for the walls of the house john would use large planks of wood . each plank needs number0 pieces of nails to be secured and he would use number1 planks . how many nails does john need for the house wall ?,"To find out how many nails John needs for the house wall, we need to calculate the total number of nails required for all the planks.
+
+Since each plank needs 2 pieces of nails to be secured, we can multiply the number of planks by 2 to find the total number of nails needed.
+
+Let's calculate it:
+
+16 * 2 = <<16 * 2 = 32>> 32
+
+John needs 32 nails for the house wall.
+
+#### 32"
+15,there were number0 people on the bus . at the next stop number1 more people got on the bus . each bus can not have more than number2 people . how many people are there on the bus now ?,"Initially, there were 12 people on the bus. Then, 4 more people got on the bus at the next stop. To find out how many people are on the bus now, we need to add the initial number of people to the number of people who got on at the next stop.
+
+12 + 4 = <<12 + 4 = 16>> 16
+
+Therefore, there are currently 16 people on the bus.
+
+#### 16"
+16,paul had number0 books and number1 pens . after selling some books and pens in a garage sale he had number2 books and number3 pens left . how many books did he sell in the garage sale ?,"Let's assume that Paul sold x books in the garage sale.
+
+Initially, Paul had 108 books and after selling x books, he had 66 books left. This can be represented as:
+
+108 - x = <<108 - x = 66>> 66
+
+To find the value of x, we can subtract 66 from both sides of the equation:
+
+108 - x - 66 = <<108 - x - 66 = 66 - 66>> 66 - 66
+
+Simplifying the equation gives us:
+
+42 - x = <<42 - x = 0>> 0
+
+To isolate x, we can subtract 42 from both sides of the equation:
+
+42 - x - 42 = <<42 - x - 42 = 0 - 42>> 0 - 42
+
+Simplifying further gives us:
+
+-x = <<-x = -42>> -42
+
+To solve for x, we can multiply both sides of the equation by -1:
+
+-1 * (-x) = <<-1 * (-x) = -1 * (-42)>> -1 * (-42)
+
+This simplifies to:
+
+x = <<x = 42>> 42
+
+Therefore, Paul sold 42 books in the garage sale.
+
+#### 42"
+17,paco had number0 sweet cookies and number1 salty cookies . he ate number2 sweet cookies and number3 salty cookies . how many salty cookies did paco have left ?,"To find out how many salty cookies Paco had left, we need to subtract the number of cookies he ate from the initial number of salty cookies he had.
+
+Paco initially had 6 salty cookies. He ate 3 salty cookies. 
+
+To find out how many salty cookies Paco had left, we can subtract the number of cookies he ate from the initial number of salty cookies:
+
+6 - 3 = <<6 - 3 = 3>> 3
+
+Therefore, Paco had 3 salty cookies left.
+
+#### 3"
+18,allan brought number0 balloons and number1 balls while jake brought number2 balloons and number3 balls to the park . how many balls did allan and jake have in the park ?,"To find out how many balls Allan and Jake had in the park, we need to add the number of balls each of them brought.
+
+Allan brought 5 balls and Jake brought 4 balls. To find the total number of balls, we can add these two quantities together.
+
+5 + 4 = <<5 + 4 = 9>> 9
+
+Therefore, Allan and Jake had a total of 9 balls in the park.
+
+#### 9"
+19,rachel has number0 apples trees . she picked number1 apples from each of her trees . now the trees have a total number2 apples still on them . how many apples did rachel pick in all ?,"Let's break down the problem step by step:
+
+1. Rachel has 4 apple trees.
+2. She picked 7 apples from each of her trees.
+3. The trees have a total of 29 apples still on them.
+
+To find out how many apples Rachel picked in total, we can multiply the number of trees by the number of apples she picked from each tree:
+
+4 * 7 = <<4 * 7 = 28>> 28
+
+So Rachel picked a total of 28 apples.
+
+#### 28"
+20,paul got a box of number0 crayons for his birthday . by the end of the school year he had either lost or given away number1 of them . how many crayons did he have left by the end of the school year ?,"To find out how many crayons Paul had left by the end of the school year, we need to subtract the number of crayons he lost or gave away from the total number of crayons he initially had.
+
+Total number of crayons Paul got for his birthday = 253
+Number of crayons Paul lost or gave away = 70
+
+To find the number of crayons Paul had left, we can subtract the number of crayons lost or given away from the total number of crayons:
+
+ 253 - 70 = << 253 - 70 = 183 >> 183 
+
+Therefore, Paul had 183 crayons left by the end of the school year.
+#### 183"
+21,dan has number0 . he bought a candy bar for number1 and a chocolate for number2 . how much money did he spend buying the candy bar and chocolate ?,"To find out how much money Dan spent buying the candy bar and chocolate, we need to add the cost of the candy bar and the cost of the chocolate.
+
+The cost of the candy bar is <<7 and the cost of the chocolate is >>6.
+
+To find the total amount spent, we can add these two amounts together:
+
+<<7 + >>6 = <<13
+
+Therefore, Dan spent >>13 buying the candy bar and chocolate.
+
+#### 13"
+22,danny collects bottle caps and wrappers . he found number0 bottle caps and number1 wrappers at the park . now he has number2 wrappers and number3 bottle caps in his collection . how many more wrappers than bottle caps does danny have now ?,"To find out how many more wrappers than bottle caps Danny has now, we need to subtract the number of bottle caps from the number of wrappers.
+
+Given that Danny found 15 bottle caps and 18 wrappers at the park, and he currently has 67 wrappers and 35 bottle caps in his collection, we can calculate the difference as follows:
+
+Number of wrappers - Number of bottle caps = Difference
+
+67 - 35 = <<67 - 35 = 32>> 32
+
+Therefore, Danny has 32 more wrappers than bottle caps now.
+
+#### 32"
+23,adam could fit number0 action figures on each shelf in his room . his room has number1 shelves and number2 cabinets . how many total action figures could his shelves hold ?,"To find the total number of action figures that Adam's shelves could hold, we need to multiply the number of action figures that can fit on each shelf by the number of shelves.
+
+Given:
+Number of action figures that can fit on each shelf = 11
+Number of shelves = 4
+
+To find the total number of action figures that could be held on the shelves, we can use the formula:
+
+Total number of action figures = Number of action figures per shelf × Number of shelves
+
+Substituting the given values into the formula:
+
+Total number of action figures = 11 × 4
+
+Calculating this expression:
+
+Total number of action figures = 44
+
+#### 44"
+24,allan and jake brought number0 balloons to the park . if allan brought number1 balloons how many balloons did jake bring to the park ?,"Let's assume that Jake brought x balloons to the park. Since Allan brought 2 balloons, the total number of balloons brought by both Allan and Jake is 2 + x. According to the given information, this total is equal to 3 balloons. 
+
+So we can write the equation: 2 + x = 3.
+
+To find the value of x, we need to isolate it on one side of the equation. We can do this by subtracting 2 from both sides:
+
+2 + x - 2 = 3 - 2.
+
+This simplifies to:
+
+x = 1.
+
+Therefore, Jake brought 1 balloon to the park.
+
+#### 1"
+25,tiffany was collecting cans for recycling . on monday she had number0 bags of cans . the next day she found some more bags worth of cans . if she had a total of number1 bags altogether how many bags did she find on the next day ?,"Let's assume that Tiffany found x bags of cans on the next day.
+
+Given that she had 4 bags of cans on Monday and a total of 6 bags altogether, we can set up the following equation:
+
+4 + x = 6
+
+To find the value of x, we need to isolate it on one side of the equation. We can do this by subtracting 4 from both sides:
+
+4 + x - 4 = 6 - 4
+
+Simplifying the equation gives us:
+
+x = 2
+
+Therefore, Tiffany found 2 bags of cans on the next day.
+
+#### 2"
+26,jerry had number0 action figures and number1 books on a shelf in his room . later he added number2 more books to the shelf . how many more action figures than books were on his shelf ?,"To find out how many more action figures than books were on Jerry's shelf, we need to calculate the difference between the number of action figures and the number of books.
+
+Jerry initially had 7 action figures and 2 books on the shelf. After adding 4 more books, the total number of books becomes 2 + 4 = 6.
+
+Now we can calculate the difference between the number of action figures and books:
+
+Number of action figures - Number of books = 7 - 6
+
+Simplifying this expression, we have:
+
+7 - 6 = 1
+
+Therefore, there is 1 more action figure than book on Jerry's shelf.
+
+#### 1"
+27,number0 birds and number1 storks were sitting on the fence . number2 more storks came to join them . how many more birds than storks are sitting on the fence ?,"To find out how many more birds than storks are sitting on the fence, we first need to determine the total number of birds and storks on the fence. 
+
+Given that there are 6 birds and 3 storks initially sitting on the fence, we can calculate the total number of birds and storks by adding these two quantities together:
+
+6 + 3 = <<6 + 3 = 9>> 9
+
+So, initially, there are a total of 9 birds and storks on the fence. 
+
+Next, we need to consider the additional 2 storks that came to join them. To find out how many more birds than storks are sitting on the fence now, we need to subtract the number of storks from the number of birds.
+
+Since there were initially 6 birds and now there are still 6 birds (no additional birds joined), we can subtract the number of storks from this quantity:
+
+6 - (3 + 2) = <<6 - (3 + 2) = 6 - 5 = 1>> 6 - 5 = 1
+
+Therefore, there is only 1 more bird than stork sitting on the fence now.
+
+#### 1"
+28,david did number0 push-ups in gym class today . david did number1 more push-ups than zachary . how many push-ups did zachary and david do altogether ?,"Let's assume the number of push-ups Zachary did is represented by the variable << Z >>. 
+
+According to the information given, David did 49 more push-ups than Zachary. Therefore, the number of push-ups David did can be represented as << Z + 49 >>. 
+
+We are also told that David did a total of 51 push-ups. So we can set up an equation: 
+
+ Z + 49 = << Z + 49 = 51 >> 51 
+
+To find the value of << Z >>, we can subtract 49 from both sides of the equation: 
+
+ Z = << Z = 51 - 49 >> 51 - 49 
+
+Simplifying the right side gives us: 
+
+ Z = << Z = 2 >> 2 
+
+So Zachary did 2 push-ups. 
+
+To find out how many push-ups Zachary and David did altogether, we can add their individual totals: 
+
+ Z + (Z + 49) = << Z + (Z + 49) = 2 + (2 + 49) >> 2 + (2 + 49) 
+
+Simplifying this expression gives us: 
+
+ Z + (Z + 49) = << Z + (Z + 49) = 2 + 51 >> 2 + 51 
+
+ Z + (Z + 49) = << Z + (Z + 49) = 53 >> 53 
+
+Therefore, Zachary and David did a total of 53 push-ups altogether.
+
+#### 53"
+29,winter is almost here and most animals are migrating to warmer countries . there are number0 bird families living near the mountain . if number1 bird families flew away to africa and number2 bird families flew away to asia how many bird families flew away for the winter ?,"Let's solve the problem step by step:
+
+1. We know that there are 18 bird families living near the mountain.
+2. We also know that 38 bird families flew away to Africa and 80 bird families flew away to Asia.
+3. To find out how many bird families flew away for the winter, we need to add the number of families that flew to Africa and Asia.
+4. So, we add 38 and 80: 38 + 80 = <<38 + 80 = 118>> 118.
+5. Therefore, 118 bird families flew away for the winter.
+
+#### 118"
+30,there were number0 roses in the vase . jessica cut some more roses from her flower garden which had a total of number1 roses . there are now number2 roses in the vase . how many roses are left in the garden ?,"Let's solve the problem step by step:
+
+1. Initially, there were 13 roses in the vase.
+2. Jessica cut some more roses from her flower garden, which had a total of 12 roses.
+3. After cutting the roses, there are now 21 roses in the vase.
+
+To find out how many roses are left in the garden, we can subtract the number of roses in the vase from the initial number of roses in the garden.
+
+Initial number of roses in the garden = 13 + 12 = <<25>>
+
+Number of roses left in the garden = Initial number of roses in the garden - Number of roses in the vase
+
+Number of roses left in the garden = <<25 - 21>>
+
+#### 4"
+31,danny collects bottle caps and wrappers . he found number0 bottle caps and number1 wrappers at the park . now he has number2 bottle caps and number3 wrappers in his collection . how many more bottle caps than wrappers did danny find at the park ?,"To find out how many more bottle caps than wrappers Danny found at the park, we need to subtract the number of wrappers from the number of bottle caps.
+
+Given that Danny found 30 bottle caps and 14 wrappers at the park, and he currently has 7 bottle caps and 86 wrappers in his collection, we can calculate the difference.
+
+Number of bottle caps found at the park: <<30>>
+Number of wrappers found at the park: <<14>>
+
+Number of bottle caps in Danny's collection: <<7>>
+Number of wrappers in Danny's collection: <<86>>
+
+To find the difference, we subtract the number of wrappers from the number of bottle caps:
+
+30 - 14 = <<30 - 14 = 16>> 16
+
+Therefore, Danny found 16 more bottle caps than wrappers at the park.
+
+#### 16"
+32,there were number0 dollars in olivia 's wallet . she spent number1 dollars at a supermarket . how much money does she have left ?,"To find out how much money Olivia has left, we need to subtract the amount she spent from the total amount she had.
+
+Olivia had 78 dollars in her wallet.
+She spent 15 dollars at the supermarket.
+
+To calculate how much money she has left, we can subtract the amount she spent from the total amount:
+
+<<78 - >>15 = <<63
+
+Therefore, Olivia has >>63 left. 
+
+#### 63"
+33,jesse 's rooms are number0 feet long and number1 feet wide . if she has number2 rooms in all how much carpet does she need to cover the floors of all rooms ?,"To find out how much carpet Jesse needs to cover the floors of all her rooms, we first need to calculate the area of one room. The area of a rectangle can be found by multiplying its length by its width.
+
+Given that Jesse's rooms are 19 feet long and 18 feet wide, the area of one room can be calculated as follows:
+
+Area of one room = Length × Width
+                  = 19 feet × 18 feet
+                  = 342 square feet
+
+Since Jesse has 20 rooms in total, we can now calculate the total amount of carpet she needs by multiplying the area of one room by the number of rooms:
+
+Total carpet needed = Area of one room × Number of rooms
+                   = 342 square feet × 20 rooms
+                   = 6840 square feet
+
+Therefore, Jesse needs 6840 square feet of carpet to cover the floors of all her rooms.
+
+#### 6840"
+34,bryan took a look at his books and magazines . if he has number0 books and number1 magazines in each of his number2 bookshelves how many books and magazines does he have in total ?,"To find the total number of books and magazines Bryan has, we need to multiply the number of bookshelves by the number of books and magazines in each shelf.
+
+Number of books = 23
+Number of magazines = 61
+Number of bookshelves = 29
+
+To find the total number of books, we multiply the number of books per shelf by the number of shelves:
+Total number of books = Number of books per shelf * Number of shelves
+Total number of books = 23 * 29
+
+To find the total number of magazines, we multiply the number of magazines per shelf by the number of shelves:
+Total number of magazines = Number of magazines per shelf * Number of shelves
+Total number of magazines = 61 * 29
+
+To find the total number of books and magazines, we add the total number of books and the total number of magazines:
+Total number of books and magazines = Total number of books + Total number of magazines
+
+Calculating each step:
+
+Total number of books = 23 * 29
+Total number of books = 667
+
+Total number of magazines = 61 * 29
+Total number of magazines = 1769
+
+Total number of books and magazines = 667 + 1769
+Total number of books and magazines = 2436
+
+#### 2436"
+35,debby bought number0 water bottles when they were on sale . she drank the same number of bottles each day . if the bottles lasted for number1 days how many bottles did she drink each day ?,"Let's assume that Debby drank x number of bottles each day. 
+
+Since she bought 153 water bottles and drank the same number of bottles each day for 17 days, we can set up the equation:
+
+x * 17 = 153
+
+To find the value of x, we need to isolate it on one side of the equation. We can do this by dividing both sides of the equation by 17:
+
+(x * 17) / 17 = 153 / 17
+
+Simplifying further:
+
+x = 9
+
+Therefore, Debby drank 9 bottles each day.
+
+#### 9"

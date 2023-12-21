@@ -1,0 +1,690 @@
+question,answer
+there are 8 different books and 10 different movies in the ' crazy silly school ' series . if you read 19 of the books and watched 61 of the movies how many more movies than books are there in the ' crazy silly school ' series ?,"To find out how many more movies than books there are in the 'Crazy Silly School' series, we need to subtract the number of books from the number of movies.
+
+Given:
+Number of books = 8
+Number of movies = 10
+Books read = 19
+Movies watched = 61
+
+To find the difference, we subtract the number of books read from the total number of books and the number of movies watched from the total number of movies.
+
+Number of remaining books = Total number of books - Books read
+Number of remaining movies = Total number of movies - Movies watched
+
+Number of remaining books = 8 - 19
+Number of remaining movies = 10 - 61
+
+Calculating:
+Number of remaining books = -11
+Number of remaining movies = -51
+
+Since we cannot have negative numbers for the remaining books and movies, it means that there are no more books or movies left in the 'Crazy Silly School' series. Therefore, there are no more movies than books in the series.
+
+#### 0"
+during summer break 644997 kids from lawrence county stayed home and the other 893835 kids went to camp . an additional 78 kids from outside the county attended the camp . how many kids are in lawrence county ?,"To find the total number of kids in Lawrence County, we need to add the number of kids who stayed home during summer break and the number of kids who went to camp.
+
+The number of kids who stayed home during summer break is given as 644997.
+
+The number of kids who went to camp is given as 893835.
+
+Additionally, there were 78 kids from outside the county who attended the camp.
+
+To find the total number of kids in Lawrence County, we can add these three numbers together:
+
+644997 + 893835 + 78 = 1535910
+
+Therefore, there are 1535910 kids in Lawrence County.
+
+#### 1535910"
+adam has 4 more apples than jackie . jackie has 10 apples . together adam and jackie have 2 apples . has 6 apples more than adam and jackie together do . how many apples does adam have ?,"Let's solve the problem step by step:
+
+1. We are given that Adam has 4 more apples than Jackie.
+2. We are also given that Jackie has 10 apples.
+3. Together, Adam and Jackie have 2 apples.
+4. We need to find out how many apples Adam has.
+
+Let's represent the number of apples Adam has as ""A"".
+
+According to the information given:
+- Adam has 4 more apples than Jackie: A = J + 4
+- Jackie has 10 apples: J = 10
+- Together, Adam and Jackie have 2 apples: A + J = 2
+
+Substituting the value of J from the second equation into the first equation:
+A = 10 + 4
+A = 14
+
+So, Adam has 14 apples.
+
+#### 14"
+robin has 28 packages of gum and 13 packages of candy . there are 4 pieces in each package . how many pieces of gum does robin have ?,"To find the total number of pieces of gum Robin has, we need to multiply the number of packages of gum by the number of pieces in each package.
+
+Given that Robin has 28 packages of gum and each package contains 4 pieces, we can calculate the total number of pieces of gum as follows:
+
+ 28 * 4 = << 28 * 4 = 112 >> 112 
+
+Therefore, Robin has 112 pieces of gum.
+
+#### 112"
+marco and his dad went strawberry picking . marco 's strawberries weighed 10 pounds . if together their strawberries weighed 26 pounds . how much more did his dad 's strawberries weigh than his ?,"Let's denote the weight of Marco's strawberries as <<M>> and the weight of his dad's strawberries as <<D>>. We are given that Marco's strawberries weighed 10 pounds, so we can write:
+
+M = <<M = 10>> 10
+
+We are also given that together their strawberries weighed 26 pounds, so we can write:
+
+M + D = <<M + D = 26>> 26
+
+To find out how much more his dad's strawberries weigh than Marco's, we need to calculate the difference between their weights. We can subtract Marco's weight from the total weight to find this:
+
+D = <<D = (M + D) - M>> (M + D) - M
+
+Substituting the values we know:
+
+D = <<D = 26 - 10>> 26 - 10
+
+Calculating the subtraction:
+
+D = <<D = 16>> 16
+
+Therefore, Marco's dad's strawberries weigh 16 pounds more than Marco's.
+
+#### 16"
+mary is baking a cake . the recipe calls for 9 cups of sugar 14 cups of flour and 40 cups of salt . she already put in 4 cups of flour . how many more cups of flour than cups of sugar does she need to add now ?,"To find out how many more cups of flour than cups of sugar Mary needs to add now, we first need to determine the number of cups of sugar she has already put in and the number of cups of flour she still needs to add.
+
+Given:
+- Cups of sugar already put in: 0 (since it is not mentioned)
+- Cups of flour already put in: 4
+- Cups of sugar required: 9
+- Cups of flour required: 14
+
+To calculate the difference between the cups of flour and sugar needed, we subtract the amount of flour already put in from the total amount required:
+
+14 - 4 = <<14 - 4 = 10>> 10
+
+Therefore, Mary needs to add 10 more cups of flour than cups of sugar. 
+
+#### 10"
+23 children were riding on the bus . at the bus stop 24 children got on the bus while some got off the bus . then there were 8 children altogether on the bus . how many more children got off the bus than those that got on ?,"Let's break down the information given in the problem:
+
+Initially, there were 23 children on the bus.
+Then, 24 children got on the bus at the bus stop.
+After that, some children got off the bus.
+Finally, there were 8 children altogether on the bus.
+
+To find out how many more children got off the bus than those that got on, we need to calculate the difference between the number of children who got off and those who got on.
+
+Let's represent the number of children who got off as ""x"".
+
+The number of children who got on can be calculated by adding the initial number of children (23) and those who got on at the bus stop (24). So, it is 23 + 24 = 47.
+
+Now, we can set up an equation to represent the situation:
+
+47 - x = 8
+
+To solve for ""x"", we need to isolate it on one side of the equation. We can do this by subtracting 47 from both sides:
+
+47 - x - 47 = 8 - 47
+-x = -39
+
+To solve for ""x"", we multiply both sides by -1:
+
+(-1)(-x) = (-1)(-39)
+x = 39
+
+Therefore, 39 more children got off the bus than those that got on.
+
+#### 39"
+winter is almost here and most animals are migrating to warmer countries . 86 bird families flew away for the winter from near a mountain . if there were 45 bird families living near the mountain initially how many more bird families flew away for the winter than those that stayed behind ?,"To find out how many more bird families flew away for the winter than those that stayed behind, we need to subtract the number of bird families that stayed behind from the total number of bird families that flew away.
+
+The total number of bird families that flew away is given as 86.
+
+The number of bird families that stayed behind is given as 45.
+
+To find the difference, we subtract the number of bird families that stayed behind from the total number of bird families that flew away:
+
+86 - 45 = <<86 - 45 = 41>> 41
+
+Therefore, 41 more bird families flew away for the winter than those that stayed behind.
+
+#### 41"
+a waiter had 11 customers . after some left he still had 3 customers . how many more customers left than those that stayed behind ?,"Let's denote the number of customers who left as ""x"". 
+
+Initially, the waiter had 11 customers. After some left, he still had 3 customers. 
+
+So, we can set up the equation: 
+
+11 - x = 3
+
+To find out how many more customers left than those that stayed behind, we need to solve for ""x"". 
+
+First, let's isolate ""x"" by subtracting 3 from both sides of the equation: 
+
+11 - x - 3 = 3 - 3
+8 - x = 0
+
+Next, let's isolate ""x"" by subtracting 8 from both sides of the equation: 
+
+8 - x - 8 = 0 - 8
+-x = -8
+
+To solve for ""x"", we need to multiply both sides of the equation by -1 to get rid of the negative sign: 
+
+(-1)(-x) = (-1)(-8)
+x = 8
+
+Therefore, 8 more customers left than those that stayed behind.
+
+#### 8"
+marco and his dad went strawberry picking . together they collected strawberries that weighed 24 pounds . on the way back marco lost 9 pounds of strawberries . marco 's strawberries now weighed 3 pounds . how much did his dad 's strawberries weigh ?,"Let's assume the weight of Marco's dad's strawberries as ""x"" pounds.
+
+According to the given information, Marco and his dad collected strawberries that weighed 24 pounds. Since Marco lost 9 pounds of strawberries on the way back, his strawberries now weigh 3 pounds. 
+
+So, we can set up the equation: 
+Marco's strawberries + Marco's dad's strawberries = Total weight of strawberries
+3 + x = 24
+
+To find the weight of Marco's dad's strawberries, we need to solve for ""x"" in the equation.
+
+Subtracting 3 from both sides of the equation:
+x = 24 - 3
+
+Simplifying the right side:
+x = 21
+
+Therefore, Marco's dad's strawberries weighed 21 pounds.
+
+#### 21"
+a farmer had 177 tomatoes and 12 potatoes in his garden . if he picked 53 tomatoes how many tomatoes and potatoes does he have left ?,"The farmer initially had 177 tomatoes and 12 potatoes in his garden. If he picked 53 tomatoes, we need to subtract this number from the initial amount of tomatoes to find out how many are left. 
+
+177 - 53 = 124
+
+Therefore, the farmer has 124 tomatoes left. 
+
+Since the problem only asks for the number of tomatoes and potatoes left, we don't need to consider the potatoes at this point. 
+
+So, the farmer has 124 tomatoes left. 
+
+#### 124"
+paul got a box of 531 crayons and 38 erasers for his birthday . at the end of the school year he only had 391 left while not having lost a single erasers . how many more crayons than erasers did he have left ?,"To find out how many more crayons than erasers Paul had left, we need to subtract the number of erasers from the number of crayons he had at the beginning and compare it to the number of crayons he had left at the end.
+
+Paul started with 531 crayons and 38 erasers. We can represent this as an equation: 531 - 38 = <<531 - 38 = X>> X, where X represents the number of crayons Paul had left at the end.
+
+Simplifying the equation, we have 493 = <<493 = X>> X.
+
+To find out how many more crayons than erasers Paul had left, we subtract the number of erasers (38) from the number of crayons left (X): X - 38 = <<X - 38 = Y>> Y, where Y represents the difference between the number of crayons and erasers.
+
+Substituting X with 493 in the equation, we have 493 - 38 = <<493 - 38 = Y>> Y.
+
+Simplifying the equation, we get 455 = <<455 = Y>> Y.
+
+Therefore, Paul had 455 more crayons than erasers left at the end of the school year.
+
+#### 455"
+in a school there are 706 girls and 222 boys . 418 more girls joined the school . how many pupils are there in the school now ?,"To find the total number of pupils in the school now, we need to add the number of girls and boys together.
+
+Given:
+Number of girls = 706
+Number of boys = 222
+
+To find the total number of pupils, we add the number of girls and boys:
+Total number of pupils = Number of girls + Number of boys
+
+Substituting the given values:
+Total number of pupils = 706 + 222
+
+Calculating this sum:
+Total number of pupils = 928
+
+Therefore, there are 928 pupils in the school now.
+#### 928"
+jack received 6 emails in the morning 3 emails in the afternoon and some more in the evening . if he received a total of 10 emails in the day how many emails did jack receive in the afternoon ?,"Let's solve the problem step by step:
+
+1. Jack received 6 emails in the morning.
+2. Jack received 3 emails in the afternoon.
+3. Let's assume Jack received x emails in the evening.
+
+To find out how many emails Jack received in the afternoon, we need to determine the value of x that satisfies the condition ""he received a total of 10 emails in the day.""
+
+The total number of emails Jack received is given by the sum of the emails he received in the morning, afternoon, and evening:
+
+6 + 3 + x = 10
+
+To isolate x, we can subtract 6 and 3 from both sides of the equation:
+
+x = 10 - 6 - 3
+
+Simplifying further:
+
+x = 1
+
+Therefore, Jack received 1 email in the evening.
+
+So, Jack received 3 emails in the afternoon.
+
+#### 3"
+mary is baking a cake . the recipe calls for 3 cups of sugar and 10 cups of flour . she already put in some cups of flour . if she still needs 5 more cups of flour than sugar how many cups of flour did she put in ?,"Let's assume the number of cups of flour Mary put in is represented by the variable <<x>>. 
+
+According to the problem, Mary still needs 5 more cups of flour than sugar. Since the recipe calls for 3 cups of sugar, Mary needs 3 + 5 = <<3 + 5 = 8>> 8 cups of flour.
+
+We also know that Mary already put in some cups of flour, which is represented by <<x>>. Therefore, we can set up an equation:
+
+x + 5 = <<x + 5 = 8>> 8
+
+To solve for <<x>>, we need to isolate it on one side of the equation. Subtracting 5 from both sides gives us:
+
+x = <<x = 8 - 5>> 8 - 5
+
+Simplifying the right side gives us:
+
+x = <<x = 3>> 3
+
+Therefore, Mary put in 3 cups of flour.
+
+#### 3"
+a waiter had 3 customers . after some left he still had 4 customers . how many more customers stayed behind than those that left ?,"Let's denote the number of customers who left as ""x"". 
+
+Initially, the waiter had 3 customers. After some left, he still had 4 customers. 
+
+So, the equation representing this situation can be written as:
+
+3 - x = 4
+
+To find out how many more customers stayed behind than those that left, we need to solve for ""x"".
+
+Adding ""x"" to both sides of the equation:
+
+3 - x + x = 4 + x
+
+Simplifying:
+
+3 = 4 + x
+
+Subtracting 4 from both sides of the equation:
+
+3 - 4 = 4 + x - 4
+
+Simplifying:
+
+-1 = x
+
+Therefore, there was 1 more customer who stayed behind than those that left.
+
+#### 1"
+36 children were riding on the bus . at the bus stop 68 children got off the bus while some more got on the bus . then there were 12 children altogether on the bus . how many more children got off the bus than those that got on ?,"Let's break down the information given in the problem:
+
+- Initially, there were 36 children on the bus.
+- At the bus stop, 68 children got off the bus.
+- After some more children got on the bus, there were 12 children altogether.
+
+To find out how many more children got off the bus than those that got on, we need to determine the difference between the number of children who got off and the number of children who got on.
+
+The number of children who got off is given as 68. To find the number of children who got on, we can subtract the final count (12) from the initial count (36):
+
+36 - 12 = <<36 - 12 = 24>> 24
+
+Therefore, 24 children got on the bus.
+
+Now we can calculate how many more children got off than those that got on by subtracting the number of children who got on from the number of children who got off:
+
+68 - 24 = <<68 - 24 = 44>> 44
+
+So, 44 more children got off the bus than those that got on.
+
+#### 44"
+next on his checklist are wax to stick the feathers together . if he has 557 g of wax and right now he just needs 17 g total how many grams of wax do the feathers require ?,"To find out how many grams of wax the feathers require, we need to subtract the amount of wax he already has (17 g) from the total amount of wax he needs.
+
+Let's denote the amount of wax required by the feathers as ""x"" grams.
+
+We can set up an equation to represent this situation:
+
+x + 17 = 557
+
+To solve for x, we need to isolate it on one side of the equation. We can do this by subtracting 17 from both sides:
+
+x = 557 - 17
+
+Now, let's calculate the value of x:
+
+x = 540
+
+Therefore, the feathers require 540 grams of wax.
+
+#### 540"
+an industrial machine can make 6 shirts a minute . it worked for 5 minutes yesterday and for 12 shirts today . how many shirts did machine make today ?,"To find out how many shirts the machine made today, we need to add the number of shirts it made yesterday and the number of shirts it made today.
+
+Yesterday, the machine worked for 5 minutes and made 6 shirts per minute. So, the total number of shirts it made yesterday is 5 * 6 = <<5 * 6 = 30>> 30.
+
+Today, the machine made 12 shirts.
+
+To find the total number of shirts the machine made today, we add the number of shirts from yesterday and today: 30 + 12 = <<30 + 12 = 42>> 42.
+
+Therefore, the machine made 42 shirts today.
+
+#### 42"
+robin has 21 packages of gum and 45 packages of candy . there are 9 pieces in each package . how many pieces of candies does robin have ?,"To find the total number of pieces of candy Robin has, we need to multiply the number of packages of candy by the number of pieces in each package.
+
+Given:
+Number of packages of gum = 21
+Number of packages of candy = 45
+Number of pieces in each package = 9
+
+To find the total number of pieces of candy:
+Total number of pieces of candy = Number of packages of candy * Number of pieces in each package
+
+Substituting the given values:
+Total number of pieces of candy = 45 * 9
+
+Calculating:
+Total number of pieces of candy = 405
+
+Therefore, Robin has 405 pieces of candy.
+
+#### 405"
+edward spent 9 . then he spent 8 more . now he has 17 . how much did edward have before he spent his money ?,"Let's assume that Edward had <<x before he spent his money. 
+
+According to the given information, Edward spent >>9 and then spent 8 more. So, the total amount he spent is >>9 + <<8 = <<8 more. So, the total amount he spent is >>9 + <<8 = >> 17.
+
+Now, we know that after spending his money, Edward has <<17 left. Therefore, we can set up the equation:
+
+>>x - 17 = 0<<
+
+To solve for x, we add 17 to both sides of the equation:
+
+>>x = 17<<
+
+So, Edward had >>17 before he spent his money.
+
+#### 17"
+baker made 99 cakes . he bought 167 new cakes and sold 89 cakes . how many more cakes did baker buy than those he sold ?,"To find out how many more cakes Baker bought than those he sold, we need to subtract the number of cakes he sold from the number of cakes he bought.
+
+Baker initially had 99 cakes.
+He then bought 167 new cakes.
+So, the total number of cakes Baker had after buying is 99 + 167 = <<99 + 167 = 266>> 266.
+
+Next, Baker sold 89 cakes.
+To find out how many more cakes Baker bought than those he sold, we subtract the number of cakes sold from the total number of cakes after buying.
+
+Therefore, the calculation is 266 - 89 = <<266 - 89 = 177>> 177.
+
+So, Baker bought 177 more cakes than those he sold.
+
+#### 177"
+an industrial machine can make 6 shirts a minute . it worked for 12 minutes yesterday and for 14 shirts today . how many shirts did machine make altogether ?,"To find the total number of shirts the machine made altogether, we need to add the number of shirts it made yesterday and today.
+
+Yesterday, the machine worked for 12 minutes and made 6 shirts per minute. So, the number of shirts it made yesterday can be calculated as:
+
+12 * 6 = <<12 * 6 = 72>> 72
+
+Today, the machine made 14 shirts. 
+
+To find the total number of shirts the machine made altogether, we add the number of shirts from yesterday and today:
+
+72 + 14 = <<72 + 14 = 86>> 86
+
+Therefore, the machine made a total of 86 shirts altogether.
+
+#### 86"
+the grasshopper the frog and the mouse had a jumping contest . the grasshopper jumped 39 inches . the grasshopper jumped 19 inches farther than the frog and the mouse jumped 12 inches lesser than the frog . how far did the mouse jump ?,"Let's denote the distance jumped by the frog as <<x>> inches. 
+
+According to the information given, the grasshopper jumped 19 inches farther than the frog, so its distance is <<x + 19>> inches. 
+
+The mouse jumped 12 inches lesser than the frog, so its distance is <<x - 12>> inches. 
+
+We know that the grasshopper jumped a total of 39 inches, so we can set up an equation: 
+
+x + 19 + x - 12 = <<x + 19 + x - 12 = 39>> 39
+
+Simplifying this equation: 
+
+2x + 7 = <<2x + 7 = 39>> 39
+
+Subtracting 7 from both sides: 
+
+2x = <<2x = 32>> 32
+
+Dividing both sides by 2: 
+
+x = <<x = 16>> 16
+
+Therefore, the frog jumped 16 inches and the mouse jumped 16 - 12 = <<16 - 12 = 4>> 4 inches.
+
+#### 4"
+paul had 42 pens and 143 books . after selling some books and pens in a garage sale he had 113 books and 19 pens left . how many pens did he sell in the garage sale ?,"Let's assume that Paul sold x pens in the garage sale. 
+
+Initially, Paul had 42 pens and after selling some, he was left with 19 pens. Therefore, the number of pens he sold can be calculated as:
+
+42 - x = 19
+
+To find the number of books Paul had initially, we subtract the number of books he has left from the total number of books he had initially:
+
+143 - (113) = 30
+
+Since we know that for every pen sold, one book was also sold, we can set up an equation to relate the number of pens and books:
+
+x = 30
+
+Therefore, Paul sold 30 pens in the garage sale.
+
+#### 30"
+for gwen 's birthday she received 8 dollars from her mom . her dad gave her 5 more dollars . if she spent 4 dollars . how much more money did she receive from her mom than she did from her dad ?,"Gwen received 8 dollars from her mom and 5 more dollars from her dad. If she spent 4 dollars, we need to calculate the difference between the amount she received from her mom and dad.
+
+The amount Gwen received from her mom is 8 dollars.
+The amount Gwen received from her dad is 8 + 5 = 13 dollars.
+
+To find out how much more money Gwen received from her mom than she did from her dad, we subtract the amount she received from her dad (13 dollars) from the amount she received from her mom (8 dollars).
+
+8 - 13 = -5
+
+Therefore, Gwen received 5 dollars less from her mom than she did from her dad. 
+
+#### -5"
+danny collects bottle caps and wrappers . he found 71 bottle caps and 24 wrappers at the park . now he has 28 bottle caps and 16 wrappers in his collection . how many more bottle caps than wrappers does danny have now ?,"To find out how many more bottle caps than wrappers Danny has now, we need to subtract the number of wrappers from the number of bottle caps.
+
+First, let's calculate the difference in the number of bottle caps:
+ 71 - 28 = << 71 - 28 = 43 >> 43 
+
+Next, let's calculate the difference in the number of wrappers:
+ 24 - 16 = << 24 - 16 = 8 >> 8 
+
+Finally, let's subtract the number of wrappers from the number of bottle caps:
+ 43 - 8 = << 43 - 8 = 35 >> 35 
+
+Therefore, Danny has 35 more bottle caps than wrappers now.
+
+#### 35"
+5 children were riding on the bus . at the bus stop 63 children got off the bus while some more got on the bus . then there were 14 children altogether on the bus . how many more children got on the bus than those that got off ?,"Let's solve the problem step by step:
+
+1. Initially, there were 5 children on the bus.
+2. At the bus stop, 63 children got off the bus.
+3. After these children got off, there were still some children on the bus.
+4. The total number of children on the bus after some got off is given as 14.
+5. We need to find out how many more children got on the bus than those that got off.
+
+To find the number of additional children who got on the bus, we can subtract the number of children who got off from the total number of children on the bus.
+
+Total number of children on the bus = Number of children who got off + Number of additional children who got on
+
+Let's represent the unknown number of additional children who got on with a variable, say x.
+
+14 = 63 - x
+
+To solve for x, we need to isolate it on one side of the equation.
+
+14 + x = 63
+
+Subtracting 14 from both sides:
+
+x = 63 - 14
+
+Calculating:
+
+x = 49
+
+Therefore, there were 49 more children who got on the bus than those that got off.
+
+#### 49"
+28 children were riding on the bus . at the bus stop 82 children got on the bus while some got off the bus . then there were 30 children altogether on the bus . how many more children got on the bus than those that got off ?,"Let's solve the problem step by step:
+
+1. Initially, there were 28 children on the bus.
+2. At the bus stop, 82 children got on the bus.
+3. Let's assume that x children got off the bus.
+4. After some children got off, there were 30 children altogether on the bus.
+5. So, we can write the equation: 28 + 82 - x = 30.
+
+To find out how many more children got on the bus than those that got off, we need to solve for x.
+
+6. Simplifying the equation: 110 - x = 30.
+7. Subtracting 110 from both sides of the equation: -x = -80.
+8. Multiplying both sides of the equation by -1 to isolate x: x = 80.
+
+Therefore, 80 more children got on the bus than those that got off.
+
+#### 80"
+there are 14 different movies and 15 different books in the ' crazy silly school ' series . if you read 11 of the books and watched 40 of the movies how many more books than movies are there in the ' crazy silly school ' series ?,"To find out how many more books than movies there are in the 'Crazy Silly School' series, we need to subtract the number of movies watched from the number of books read.
+
+Number of books: 15
+Number of movies: 14
+
+Books read: 11
+Movies watched: 40
+
+To find the difference, we subtract the number of movies from the number of books:
+
+15 - 11 = 4
+
+So, there are 4 more books than movies in the 'Crazy Silly School' series.
+
+#### 4"
+carol was sending out birthday invitations to 10 friends . if each package of invitations she bought had 2 invitations in it how many packs does she need so that no friend gets left out ?,"To find out how many packs of invitations Carol needs, we can divide the total number of invitations by the number of invitations in each pack.
+
+Total number of invitations = 10 friends * 2 invitations per friend
+
+Calculating this expression: 10 * 2 = <<10 * 2 = 20>> 20
+
+So, Carol needs 20 invitations in total.
+
+Now, let's calculate how many packs she needs:
+
+Number of packs = Total number of invitations / Invitations per pack
+
+Calculating this expression: 20 / 2 = <<20 / 2 = 10>> 10
+
+Therefore, Carol needs 10 packs of invitations so that no friend gets left out.
+
+#### 10"
+last week fred had 78 dollars and jason had 31 dollars . jason delivered newspapers and now has 14 dollars . fred washed cars over the weekend and now has 90 dollars . how much money did they earn by delivering newspapers ?,"To find out how much money Jason earned by delivering newspapers, we need to calculate the difference between his current amount of money and the amount he had last week.
+
+Jason had 31 dollars last week and now has 14 dollars. To find the difference, we subtract his current amount from his initial amount:
+
+31 - 14 = <<31 - 14 = 17>> 17
+
+Therefore, Jason earned 17 dollars by delivering newspapers.
+
+#### 17"
+for the walls of the house he would use 12 large planks of wood and 10 small planks . if large planks together need 15 pieces of nails to be secured and small planks together need 5 nails . how many nails does john need for the house wall ?,"To find the total number of nails John needs for the house wall, we need to calculate the number of nails required for the large planks and the small planks separately, and then add them together.
+
+First, let's calculate the number of nails needed for the large planks. We know that each large plank requires 15 nails to be secured, and John is using 12 large planks. So, the total number of nails needed for the large planks can be calculated as:
+
+ 15 * 12 = << 15 * 12 = 180 >> 180 
+
+Next, let's calculate the number of nails needed for the small planks. We are given that each small plank requires 5 nails to be secured, and John is using 10 small planks. So, the total number of nails needed for the small planks can be calculated as:
+
+ 5 * 10 = << 5 * 10 = 50 >> 50 
+
+Finally, we can find the total number of nails needed by adding the number of nails needed for the large planks and the small planks together:
+
+ 180 + 50 = << 180 + 50 = 230 >> 230 
+
+Therefore, John needs a total of 230 nails for the house wall.
+
+#### 230"
+jerry had 7 books and 3 action figures on a shelf in his room . later he added 2 more action figures to the shelf . how many more books than action figures were on his shelf ?,"Jerry initially had 7 books and 3 action figures on the shelf. He then added 2 more action figures to the shelf. To find out how many more books than action figures were on his shelf, we need to subtract the number of action figures from the number of books.
+
+Number of books: 7
+Number of action figures: 3
+Number of additional action figures: 2
+
+To calculate the difference, we subtract the number of action figures from the number of books:
+
+7 - 3 = <<7 - 3 = 4>> 4
+
+Therefore, there were 4 more books than action figures on Jerry's shelf.
+
+#### 4"
+6 birds were sitting on the fence . 4 more birds and 8 more storks came to join them . how many birds are sitting on the fence ?,"Initially, there were 6 birds sitting on the fence. Then, an additional 4 birds and 8 storks came to join them. To find out how many birds are now sitting on the fence, we need to add the number of birds that joined to the initial number of birds.
+
+The number of birds that joined is 4 + 8 = 12.
+
+To find the total number of birds sitting on the fence, we add this number to the initial number of birds: 6 + 12 = 18.
+
+Therefore, there are currently 18 birds sitting on the fence.
+
+#### 18"
+rachel 's tree had 2 apples . she picked 4 apples from her tree . thereafter 3 new apples grew on the tree . how many apples are there on the tree now ?,"Rachel initially had 2 apples on her tree. She then picked 4 apples from the tree. After that, 3 new apples grew on the tree. To find out how many apples are there on the tree now, we can add the number of apples Rachel initially had, the number of apples she picked, and the number of new apples that grew on the tree.
+
+Number of apples Rachel initially had: 2
+Number of apples she picked: 4
+Number of new apples that grew on the tree: 3
+
+To find the total number of apples on the tree now, we can add these three numbers together:
+
+2 + 4 + 3 = 9
+
+Therefore, there are currently 9 apples on Rachel's tree.
+
+#### 9"
+nell collects cards . she had 438 baseball cards and 18 10 cards . she gave some of her cards to jeff and now has 55 10 cards and 178 baseball cards left . how many more baseball cards than 10 cards does nell have ?,"To find out how many more baseball cards than 10 cards Nell has, we need to calculate the difference between the number of baseball cards and the number of 10 cards she has.
+
+Nell initially had 438 baseball cards and 18 10 cards. After giving some cards to Jeff, she now has 55 10 cards and 178 baseball cards left.
+
+To calculate the difference, we subtract the number of 10 cards from the number of baseball cards:
+
+438 - 55 = 383
+
+So, Nell has 383 more baseball cards than 10 cards.
+
+#### 383"
+winter is almost here and most animals are migrating to warmer countries . there are 19 bird families living near the mountain . if 60 bird families flew away for winter how many more bird families flew away for the winter than those that stayed behind ?,"To find out how many more bird families flew away for the winter than those that stayed behind, we need to subtract the number of bird families that stayed behind from the total number of bird families that flew away.
+
+Given:
+Number of bird families living near the mountain = 19
+Number of bird families that flew away for winter = 60
+
+To find the number of bird families that stayed behind, we subtract the number of bird families that flew away from the total number of bird families:
+
+Number of bird families that stayed behind = Total number of bird families - Number of bird families that flew away
+Number of bird families that stayed behind = 19 - 60
+
+Now let's calculate:
+
+Number of bird families that stayed behind = -41
+
+Since we cannot have a negative number of bird families, it means that all the bird families near the mountain flew away for winter. Therefore, there were no bird families left behind.
+
+So, the answer is:
+
+#### 0"
+you had 26 bags with equal number of cookies . if you had 15 candies and 52 cookies in total how many bags of cookies do you have ?,"Let's assume the number of cookies in each bag is represented by the variable <<x>>. 
+
+We are given that there are 26 bags with an equal number of cookies, so we can write the equation:
+
+26x = <<26x = 52>> 52
+
+To find the value of <<x>>, we divide both sides of the equation by 26:
+
+2 / 6x}{26} = <<2 / 6x}{26} = 5 / 2{26}>> 5 / 2{26}
+
+Simplifying, we have:
+
+x = <<x = 2>> 2
+
+Therefore, each bag contains 2 cookies. 
+
+Now, let's calculate how many bags of cookies we have in total. We know that there are 15 candies and a total of 52 cookies. Since each bag contains 2 cookies, we can find the number of bags by dividing the total number of cookies by the number of cookies in each bag:
+
+5 / 2{2} = <<5 / 2{2} = 26>> 26
+
+So, we have 26 bags of cookies.
+
+#### 26"

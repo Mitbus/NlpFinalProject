@@ -1,0 +1,812 @@
+,question,answer
+0,bobby had number0 pieces of candy . he ate number1 pieces of candy . then he ate number2 more . how many pieces of candy does he still have left ?,"To find out how many pieces of candy Bobby has left, we need to subtract the number of pieces he ate from the total number of pieces he had initially.
+
+Bobby initially had 21 pieces of candy.
+He ate 5 pieces of candy.
+So, the number of pieces he had left after eating 5 pieces is 21 - 5.
+
+Next, Bobby ate 9 more pieces of candy.
+To find out how many pieces he had left after eating 9 more, we subtract 9 from the previous result.
+
+Therefore, the number of pieces of candy Bobby has left is (21 - 5) - 9.
+
+Calculating this expression, we get (21 - 5) - 9 = 16 - 9 = 7.
+
+So, Bobby has 7 pieces of candy left.
+
+#### 7"
+1,every day ryan spends number0 hours on learning english and number1 hours on learning chinese . if he learns for number2 days how many hours does he spend on learning chinese in all ?,"Ryan spends 4 hours on learning Chinese every day for 6 days. To find out how many hours he spends on learning Chinese in all, we can multiply the number of hours he spends per day by the number of days.
+
+ 4 * 6 = << 4 * 6 = 24 >> 24 
+
+Therefore, Ryan spends 24 hours on learning Chinese in all.
+
+#### 24"
+2,every day ryan spends number0 hours on learning english number1 hours on learning chinese and number2 hours on learning spanish . how many more hours does he spend on learning chinese than he does on learning spanish ?,"To find out how many more hours Ryan spends on learning Chinese than he does on learning Spanish, we need to subtract the number of hours he spends on learning Spanish from the number of hours he spends on learning Chinese.
+
+Ryan spends 5 hours on learning Chinese and 4 hours on learning Spanish.
+
+So, the difference in hours spent on learning Chinese and Spanish is 5 - 4 = <<5 - 4 = 1>> 1.
+
+Therefore, Ryan spends 1 more hour on learning Chinese than he does on learning Spanish.
+
+#### 1"
+3,ryan learns english and chinese for number0 days . every day he spends number1 hours on learning english and number2 hours on learning chinese . how many hours does he spend on learning english and chinese in all ?,"To find out how many hours Ryan spends on learning English and Chinese in total, we need to calculate the total number of hours he spends on each subject and then add them together.
+
+Ryan spends 4 hours on learning English every day for 7 days. To find the total number of hours he spends on learning English, we can multiply the number of hours per day (4) by the number of days (7).
+
+ 4 * 7 = << 4 * 7 = 28 >> 28 
+
+So, Ryan spends 28 hours on learning English in total.
+
+Similarly, Ryan spends 5 hours on learning Chinese every day for 7 days. To find the total number of hours he spends on learning Chinese, we can multiply the number of hours per day (5) by the number of days (7).
+
+ 5 * 7 = << 5 * 7 = 35 >> 35 
+
+So, Ryan spends 35 hours on learning Chinese in total.
+
+To find the total number of hours Ryan spends on learning English and Chinese in all, we need to add the hours spent on each subject.
+
+ 28 + 35 = << 28 + 35 = 63 >> 63 
+
+Therefore, Ryan spends 63 hours on learning English and Chinese in total.
+
+#### 63"
+4,number0 red peaches number1 yellow peaches and number2 green peaches are in the basket . how many more green peaches than red peaches are in the basket ?,"To find out how many more green peaches than red peaches are in the basket, we need to subtract the number of red peaches from the number of green peaches.
+
+The number of green peaches is given as 8, and the number of red peaches is given as 7.
+
+So, the calculation would be: 8 - 7 = <<8 - 7 = 1>> 1.
+
+Therefore, there is 1 more green peach than red peach in the basket.
+
+#### 1"
+5,there are number0 baskets of peaches . each basket has number1 red peaches and number2 green peaches . how many peaches are in each basket ?,"To find the total number of peaches in each basket, we need to add the number of red peaches and the number of green peaches in each basket.
+
+The number of red peaches in each basket is 7, and the number of green peaches in each basket is 3. To find the total number of peaches, we can add these two quantities.
+
+ 7 + 3 = << 7 + 3 = 10 >> 10 
+
+Therefore, there are 10 peaches in each basket.
+
+#### 10"
+6,number0 green peaches number1 yellow peaches and number2 red peaches are in the basket . how many more green peaches than red peaches are in the basket ?,"To find out how many more green peaches than red peaches are in the basket, we need to subtract the number of red peaches from the number of green peaches.
+
+The number of green peaches is given as 6, and the number of red peaches is given as 2.
+
+So, the calculation would be:
+
+6 - 2 = <<6 - 2 = 4>> 4
+
+Therefore, there are 4 more green peaches than red peaches in the basket.
+
+#### 4"
+7,jerry had number0 action figures and number1 books on a shelf in his room . later he added number2 more books to the shelf . how many books were on his shelf in all ?,"Jerry initially had 8 action figures and 9 books on the shelf. Later, he added 10 more books to the shelf. To find out how many books were on his shelf in total, we need to add the initial number of books to the number of books he added.
+
+The initial number of books on the shelf is 9, and Jerry added 10 more books. So, the total number of books on the shelf is <<9 + 10>>.
+
+Calculating this, we get 9 + 10 = <<9 + 10 = 19>> 19.
+
+Therefore, there were 19 books on Jerry's shelf in total.
+
+#### 19"
+8,jerry had number0 action figures and number1 books on a shelf in his room . later he added number2 more books to the shelf . how many more books than action figures were on his shelf ?,"To find out how many more books than action figures were on Jerry's shelf, we need to subtract the number of action figures from the number of books.
+
+Jerry had 5 action figures and 2 books on the shelf initially. Later, he added 9 more books.
+
+The total number of books on the shelf is 2 + 9 = 11.
+
+To find the difference between the number of books and action figures, we subtract the number of action figures (5) from the total number of books (11).
+
+11 - 5 = 6.
+
+Therefore, there were 6 more books than action figures on Jerry's shelf.
+
+#### 6"
+9,jerry had number0 action figures on a shelf in his room . later he added number1 more action figures to the shelf and removed some of the old ones . if there are number2 action figures on his shelf now how many action figures did he remove from the shelf ?,"Let's assume that Jerry removed x action figures from the shelf.
+
+Initially, Jerry had 3 action figures on the shelf.
+He then added 4 more action figures, resulting in a total of 3 + 4 = 7 action figures on the shelf.
+After removing some action figures, there are now 6 action figures on the shelf.
+
+Therefore, we can set up the equation: 7 - x = 6.
+
+To solve for x, we can subtract 6 from both sides of the equation:
+7 - x - 6 = 6 - 6,
+which simplifies to:
+1 - x = 0.
+
+To isolate x, we can subtract 1 from both sides of the equation:
+1 - x - 1 = 0 - 1,
+which simplifies to:
+-x = -1.
+
+To solve for x, we can multiply both sides of the equation by -1:
+-x * (-1) = -1 * (-1),
+which simplifies to:
+x = 1.
+
+Therefore, Jerry removed 1 action figure from the shelf.
+
+#### 1"
+10,number0 birds and number1 storks were sitting on the fence . number2 more birds came to join them . how many birds are sitting on the fence ?,"To find the total number of birds sitting on the fence, we need to add the initial number of birds to the number of birds that came to join them.
+
+The initial number of birds is given as 4, and the number of birds that came to join them is given as 6.
+
+To find the total number of birds, we can add these two numbers together.
+
+ 4 + 6 = << 4 + 6 = 10 >> 10 
+
+Therefore, there are 10 birds sitting on the fence.
+
+#### 10"
+11,number0 birds and number1 storks were sitting on the fence . number2 more birds came to join them . how many birds and storks are sitting on the fence ?,"To find the total number of birds and storks sitting on the fence, we need to add the initial number of birds and storks to the number of birds that came to join them.
+
+Given:
+Initial number of birds = 3
+Initial number of storks = 2
+Number of birds that came to join = 5
+
+To find the total number of birds and storks, we add the initial number of birds and storks to the number of birds that came to join:
+
+Total number of birds and storks = Initial number of birds + Initial number of storks + Number of birds that came to join
+
+Total number of birds and storks = 3 + 2 + 5
+
+Calculating the sum:
+
+Total number of birds and storks = 10
+
+#### 10"
+12,number0 birds and number1 storks were sitting on the fence . number2 more birds came to join them . how many more birds than storks are sitting on the fence ?,"Initially, there were 3 birds and 4 storks sitting on the fence. 
+
+To find out how many more birds than storks are sitting on the fence after 2 more birds join them, we need to calculate the total number of birds and storks separately.
+
+The total number of birds is the initial number of birds plus the additional 2 birds: 3 + 2 = <<3 + 2 = 5>> 5 birds.
+
+The total number of storks remains the same: 4 storks.
+
+To find out how many more birds than storks are sitting on the fence, we subtract the number of storks from the number of birds: 5 - 4 = <<5 - 4 = 1>> 1.
+
+Therefore, there is 1 more bird than stork sitting on the fence.
+
+#### 1"
+13,number0 birds and number1 storks were sitting on the fence . number2 more storks came to join them . how many more storks than birds are sitting on the fence ?,"To find out how many more storks than birds are sitting on the fence, we need to determine the difference between the number of storks and the number of birds.
+
+Given that there are 4 birds and 3 storks initially sitting on the fence, we can represent this as:
+Number of birds = 4
+Number of storks = 3
+
+Next, we are told that 6 more storks came to join them. To find the total number of storks, we can add the initial number of storks to the additional storks:
+Total number of storks = Number of storks + Additional storks = 3 + 6 = 9
+
+Now, we can calculate the difference between the total number of storks and the number of birds to find how many more storks than birds are sitting on the fence:
+Difference = Total number of storks - Number of birds = 9 - 4 = 5
+
+Therefore, there are 5 more storks than birds sitting on the fence.
+
+#### 5"
+14,number0 birds were sitting on the fence . number1 more birds and number2 more storks came to join them . how many more storks than birds are sitting on the fence ?,"Initially, there were 3 birds sitting on the fence. Then, 2 more birds joined them, making a total of 3 + 2 = 5 birds on the fence.
+Additionally, 6 more storks came to join them, so the total number of storks on the fence is 6.
+To find out how many more storks than birds are sitting on the fence, we need to subtract the number of birds from the number of storks.
+So, the answer is 6 - 5 = 1. 
+#### 1"
+15,a book has number0 chapters . the first chapter is number1 pages long the second chapter is number2 pages long and the third chapter is number3 pages long . how many more pages does the first chapter have than the third chapter ?,"To find out how many more pages the first chapter has than the third chapter, we need to subtract the number of pages in the third chapter from the number of pages in the first chapter.
+
+The number of pages in the first chapter is 53 and the number of pages in the third chapter is 21.
+
+So, the calculation is: <<53 - 21>>.
+
+Simplifying this calculation gives us: <<32>>.
+
+Therefore, the first chapter has 32 more pages than the third chapter.
+
+#### 32"
+16,a book has number0 chapters . each chapter is number1 pages long . how many pages does the book have altogether ?,"To find the total number of pages in the book, we need to multiply the number of chapters by the number of pages in each chapter.
+
+Let's denote the number of chapters as <<C>> and the number of pages in each chapter as <<P>>.
+
+Given that the book has 31 chapters and each chapter is 61 pages long, we have:
+
+C = <<C = 31>> 31 and P = <<P = 61>> 61
+
+To find the total number of pages, we can use the formula:
+
+Total number of pages = Number of chapters <<*>> Number of pages in each chapter
+
+Total = <<Total = C * P>> C * P
+
+Substituting the given values, we have:
+
+Total = <<Total = 31 * 61>> 31 * 61
+
+Calculating this expression, we get:
+
+Total = <<Total = 1891>> 1891
+
+Therefore, the book has a total of 1891 pages.
+
+#### 1891"
+17,a book has number0 chapters across number1 pages . the second chapter is number2 pages long . how many pages are in the second chapter ?,"Let's denote the number of pages in the second chapter as <<x>>. We know that the book has 2 chapters across 81 pages, and the second chapter is 68 pages long. 
+
+We can set up an equation to represent this information: 
+
+81 = <<81 = x + 68>> x + 68
+
+To find the value of <<x>>, we can subtract 68 from both sides of the equation: 
+
+81 - 68 = <<81 - 68 = x>> x
+
+Simplifying the left side of the equation gives us: 
+
+13 = <<13 = x>> x
+
+Therefore, there are 13 pages in the second chapter. 
+
+#### 13"
+18,some campers went rowing in the morning while number0 campers went rowing in the afternoon . if a total of number1 campers went rowing that day how many campers went rowing in the morning ?,"Let's assume the number of campers who went rowing in the morning is represented by the variable <<x>>.
+
+According to the problem, 7 campers went rowing in the afternoon. So, the total number of campers who went rowing in the afternoon is 7.
+
+The total number of campers who went rowing that day is given as 60.
+
+Therefore, we can set up the equation:
+
+x + 7 = <<x + 7 = 60>> 60
+
+To solve for <<x>>, we can subtract 7 from both sides of the equation:
+
+x = <<x = 60 - 7>> 60 - 7
+
+x = <<x = 53>> 53
+
+Therefore, 53 campers went rowing in the morning.
+
+#### 53"
+19,number0 campers went rowing and number1 campers went hiking in the morning . number2 campers went rowing in the afternoon . how many campers went rowing in all ?,"To find the total number of campers who went rowing, we need to add the number of campers who went rowing in the morning and the number of campers who went rowing in the afternoon.
+
+In the morning, 13 campers went rowing.
+In the afternoon, 21 campers went rowing.
+
+To find the total number of campers who went rowing in all, we add these two numbers together:
+
+ 13 + 21 = << 13 + 21 = 34 >> 34 
+
+Therefore, 34 campers went rowing in all.
+#### 34"
+20,number0 campers went rowing and number1 campers went hiking in the morning . number2 campers went rowing in the afternoon . how many more campers went rowing in the morning than in the afternoon ?,"To find out how many more campers went rowing in the morning than in the afternoon, we need to subtract the number of campers who went rowing in the afternoon from the number of campers who went rowing in the morning.
+
+The number of campers who went rowing in the morning is 29, and the number of campers who went rowing in the afternoon is 26.
+
+So, the calculation is:
+
+29 - 26 = <<29 - 26 = 3>> 3
+
+Therefore, 3 more campers went rowing in the morning than in the afternoon.
+
+#### 3"
+21,number0 campers went rowing on a day . number1 campers went rowing in the morning and some more campers went rowing in the afternoon . how many campers went rowing in the afternoon ?,"Let's solve the problem step by step:
+
+1. We know that a total of 46 campers went rowing on that day.
+2. Out of these 46 campers, 43 went rowing in the morning.
+3. We need to find out how many campers went rowing in the afternoon.
+4. To find the number of campers who went rowing in the afternoon, we can subtract the number of campers who went rowing in the morning from the total number of campers who went rowing on that day.
+5. So, the number of campers who went rowing in the afternoon can be calculated as: <<46 - 43>>.
+
+Now, let's calculate the answer:
+
+46 - 43 = <<46 - 43 = 3>> 3
+
+#### 3"
+22,rachel picked number0 apples from her tree . thereafter number1 new apples grew on the tree . now the tree has number2 apples still on it . how many apples did the tree have to begin with ?,"Let's denote the number of apples the tree had to begin with as ""x"". 
+
+According to the information given, Rachel picked 7 apples from the tree, so the number of apples remaining on the tree is ""x - 7"". 
+
+Afterward, 2 new apples grew on the tree, so the number of apples on the tree became ""(x - 7) + 2"". 
+
+Finally, it is stated that the tree now has 6 apples still on it, so we can set up the equation: 
+
+""(x - 7) + 2 = 6"". 
+
+To solve for x, we can simplify the equation: 
+
+""x - 7 + 2 = 6"", 
+
+which can be further simplified to: 
+
+""x - 5 = 6"". 
+
+To isolate x, we can add 5 to both sides of the equation: 
+
+""x - 5 + 5 = 6 + 5"", 
+
+which simplifies to: 
+
+""x = 11"". 
+
+Therefore, the tree had 11 apples to begin with. 
+
+#### 11"
+23,rachel has number0 apples trees . she picked number1 apples from each of her trees . now the trees have a total number2 apples still on them . how many apples were there on all trees initially ?,"Let's denote the number of apples on each tree initially as <<x>>. Since Rachel has 3 apple trees, the total number of apples on all trees initially can be calculated by multiplying the number of apples on each tree by the number of trees, which is <<3x>>. 
+
+Rachel picked 8 apples from each tree, so the total number of apples she picked is 3 * 8 = <<3 * 8 = 24>> 24. 
+
+After picking the apples, there were 9 apples still on the trees. Therefore, we can set up the equation 3x - 24 = <<3x - 24 = 9>> 9 to represent the situation. 
+
+To find the initial number of apples on all trees, we need to solve this equation for <<x>>. 
+
+Adding 24 to both sides of the equation, we get 3x = <<3x = 33>> 33. 
+
+Finally, dividing both sides of the equation by 3, we find that x = <<x = 11>> 11. 
+
+Therefore, there were initially 11 apples on each tree, and the total number of apples on all trees was 3 * 11 = <<3 * 11 = 33>> 33. 
+
+#### 33"
+24,ed had number0 more marbles than doug . doug lost number1 of his marbles at the playground . if ed had number2 marbles how many marbles does doug have now ?,"Let's assume that Doug initially had x marbles. 
+
+According to the given information, Ed had 6 more marbles than Doug, so Ed had x + 6 marbles.
+
+If Doug lost 7 marbles at the playground, he would have x - 7 marbles left.
+
+We are also given that Ed had 22 marbles, so we can set up the equation:
+
+x + 6 = 22
+
+To solve for x, we can subtract 6 from both sides of the equation:
+
+x = 22 - 6
+
+Simplifying the right side:
+
+x = 16
+
+Therefore, Doug initially had 16 marbles.
+
+Now, to find out how many marbles Doug has after losing 7, we can subtract 7 from his initial number of marbles:
+
+16 - 7 = 9
+
+So, Doug now has 9 marbles.
+
+#### 9"
+25,ed had number0 more marbles than doug . ed lost some of his marbles at the playground . now ed has number1 more marbles than doug . how many marbles did ed lose ?,"Let's assume that Doug has x marbles. According to the given information, Ed had 19 more marbles than Doug, so Ed had x + 19 marbles.
+After losing some marbles at the playground, Ed now has 8 more marbles than Doug. So, Ed currently has x + 8 marbles.
+To find out how many marbles Ed lost, we need to find the difference between the number of marbles Ed had initially and the number of marbles Ed currently has.
+The calculation can be represented as (x + 19) - (x + 8).
+Simplifying the expression, we get x + 19 - x - 8.
+Combining like terms, we have 19 - 8.
+Calculating the difference, we find that Ed lost 11 marbles.
+#### 11"
+26,because of the decision sofia asked the students to suggest specific types of food . number0 students suggested adding mashed potatoes while others suggested adding bacon to the menu . if number1 more students suggested adding mashed potatoes than those that suggested bacon how many students suggested bacon ?,"Let's assume the number of students who suggested adding bacon to the menu is represented by the variable <<x>>. 
+
+According to the problem, 457 students suggested adding mashed potatoes, which is 63 more than the number of students who suggested bacon. 
+
+So, we can set up the equation 457 = <<457 = x + 63>> x + 63 to represent this relationship. 
+
+To solve for <<x>>, we can subtract 63 from both sides of the equation: 
+
+457 - 63 = <<457 - 63 = x + 63 - 63>> x + 63 - 63
+
+Simplifying the equation gives us: 
+
+394 = <<394 = x>> x
+
+Therefore, 394 students suggested adding bacon to the menu. 
+
+#### 394"
+27,because of the decision sofia asked the students to suggest specific types of food . number0 students suggested adding mashed potatoes while others suggested adding bacon to the menu . if number1 more students suggested adding bacon than those that suggested mashed potatoes how many students suggested bacon ?,"Let's assume the number of students who suggested adding mashed potatoes is represented by the variable <<m>>. 
+
+According to the problem, 182 students suggested adding mashed potatoes. So we can write the equation m = <<m = 182>> 182.
+
+It is also given that the number of students who suggested adding bacon is 166 more than those who suggested mashed potatoes. We can represent this as b = <<b = m + 166>> m + 166.
+
+To find the number of students who suggested bacon, we need to substitute the value of <<m>> from the first equation into the second equation.
+
+Substituting m = <<m = 182>> 182 into b = <<b = m + 166>> m + 166, we get b = <<b = 182 + 166>> 182 + 166.
+
+Calculating this expression, we find b = <<b = 348>> 348.
+
+Therefore, 348 students suggested adding bacon.
+
+#### 348"
+28,because of the decision sofia asked the students to suggest specific types of food . if number0 students suggested adding mashed potatoes number1 suggested adding bacon to the menu and number2 suggested adding tomatoes how many more students suggested mashed potatoes than those that suggested bacon ?,"To find out how many more students suggested mashed potatoes than those that suggested bacon, we need to subtract the number of students who suggested bacon from the number of students who suggested mashed potatoes.
+
+The number of students who suggested mashed potatoes is 257, and the number of students who suggested bacon is 120.
+
+To find the difference, we subtract the number of students who suggested bacon from the number of students who suggested mashed potatoes:
+
+ 257 - 120 = << 257 - 120 = 137 >> 137 
+
+Therefore, 137 more students suggested mashed potatoes than those that suggested bacon.
+
+#### 137"
+29,in a school there are number0 girls and number1 boys . number2 more girls and number3 more boys joined the school . how many boys are there in the school now ?,"To find the total number of boys in the school now, we need to add the initial number of boys to the number of boys who joined later.
+
+The initial number of boys in the school is 214.
+
+496 more girls joined the school, so we don't need to consider them when calculating the number of boys.
+
+910 more boys joined the school.
+
+To find the total number of boys in the school now, we can add the initial number of boys to the number of boys who joined later:
+
+214 + 910 = <<214 + 910 = 1124>> 1124
+
+Therefore, there are currently 1124 boys in the school. 
+
+#### 1124"
+30,david did number0 more push-ups but number1 less crunches than zachary in gym class today . if zachary did number2 push-ups and number3 crunches how many more push-ups than crunches did zachary do ?,"To find out how many more push-ups than crunches Zachary did, we need to calculate the difference between the number of push-ups and crunches he did.
+
+Zachary did 58 push-ups and 33 crunches. 
+
+David did 36 more push-ups than Zachary, so we can calculate the number of push-ups David did by adding 36 to Zachary's push-ups: 58 + 36 = <<58 + 36 = 94>> 94.
+
+David also did 33 less crunches than Zachary, so we can calculate the number of crunches David did by subtracting 33 from Zachary's crunches: 33 - 33 = <<33 - 33 = 0>> 0.
+
+Now we can calculate the difference between the number of push-ups and crunches Zachary did by subtracting the number of crunches from the number of push-ups: 58 - 33 = <<58 - 33 = 25>> 25.
+
+Therefore, Zachary did 25 more push-ups than crunches.
+
+#### 25"
+31,mary is baking a cake . the recipe calls for number0 cups of flour and number1 cups of sugar . she already put in some cups of flour . if she still needs number2 more cups of flour than sugar how many cups of flour did she put in ?,"Let's assume the number of cups of flour Mary put in is represented by the variable <<x>>. 
+
+According to the problem, Mary still needs 2 more cups of flour than sugar. Since the recipe calls for 7 cups of sugar, Mary needs 7 + 2 = <<7 + 2 = 9>> 9 cups of flour.
+
+We also know that Mary already put in some cups of flour. Therefore, we can set up an equation: x + 9 = <<x + 9 = 11>> 11.
+
+To find the value of x>>, we can subtract 9 from both sides of the equation: <<x = <<x>>, we can subtract 9 from both sides of the equation: <<x = 11 - 9>> 11 - 9.
+
+Simplifying the right side gives us x = <<x = 2>> 2.
+
+Therefore, Mary put in 2 cups of flour.
+
+#### 2"
+32,mary is baking a cake . the recipe calls for number0 cups of sugar and number1 cups of flour . she already put in number2 cups of flour . how many more cups of sugar than cups of flour does she need to add now ?,"To find out how many more cups of sugar than cups of flour Mary needs to add now, we need to subtract the amount of flour she has already put in from the amount of sugar required.
+
+The recipe calls for 5 cups of sugar and 14 cups of flour. Mary has already put in 11 cups of flour.
+
+So, the number of cups of sugar she needs to add now is given by:
+
+<<5 - (14 - 11)>>
+
+Simplifying this expression:
+
+<<5 - 3>>
+
+Therefore, Mary needs to add 2 more cups of sugar than cups of flour.
+
+#### 2"
+33,paul had number0 books . after selling some in a garage sale he bought number1 new ones . if he has number2 books now how many more books did he buy than he sold ?,"Sure, let's solve the math problem step by step.
+
+Let's assume that Paul initially sold ""x"" books in the garage sale.
+
+So, after selling ""x"" books, the number of books Paul had was 71 - x.
+
+Then, he bought 38 new books, which means the total number of books he had became (71 - x) + 38.
+
+According to the problem, the total number of books Paul has now is 116. So we can set up the equation:
+
+(71 - x) + 38 = 116
+
+Now, let's solve this equation to find the value of ""x"".
+
+Combining like terms, we have:
+
+71 - x + 38 = 116
+
+Adding the numbers on the left side, we get:
+
+109 - x = 116
+
+To isolate ""x"", we subtract 109 from both sides:
+
+- x = 116 - 109
+
+Simplifying, we have:
+
+- x = 7
+
+To solve for ""x"", we multiply both sides by -1:
+
+x = -7
+
+Now, we need to find the difference between the number of books Paul bought and the number of books he sold. 
+
+The number of books he bought is 38.
+
+The number of books he sold is -7 (since he sold more books than he bought).
+
+To find the difference, we calculate:
+
+38 - (-7)
+
+Simplifying, we have:
+
+38 + 7 = 45
+
+So, Paul bought 45 more books than he sold.
+
+#### 45"
+34,there were number0 roses in the vase . jessica threw away number1 roses from the vase and cut some more new roses from her flower garden to put in the vase . there are now number2 roses in the vase . how many roses did she cut ?,"Let's assume that Jessica cut x roses from her flower garden.
+
+Initially, there were 2 roses in the vase. Jessica then threw away 4 roses, which means the number of roses decreased by 4. After that, she cut some more roses from her garden and put them in the vase. Now, there are 23 roses in the vase.
+
+So, we can set up the equation: 
+
+2 - 4 + x = 23
+
+To find the value of x, we need to solve this equation.
+
+First, let's simplify the left side of the equation:
+
+-2 + x = 23
+
+Next, let's isolate x by adding 2 to both sides of the equation:
+
+-2 + x + 2 = 23 + 2
+x = 25
+
+Therefore, Jessica cut 25 roses from her flower garden.
+
+#### 25"
+35,dave had number0 apps and number1 files on his phone . after deleting some apps and files he had number2 files and number3 apps left . how many more apps than files does he have left on the phone ?,"Let's start by finding out how many apps and files Dave deleted from his phone. We can do this by subtracting the number of remaining apps and files from the initial number of apps and files.
+
+Initial number of apps = 24
+Remaining number of apps = 12
+
+Initial number of files = 9
+Remaining number of files = 5
+
+To find the number of deleted apps, we subtract the remaining number of apps from the initial number of apps:
+Deleted apps = Initial number of apps - Remaining number of apps = 24 - 12 = 12
+
+To find the number of deleted files, we subtract the remaining number of files from the initial number of files:
+Deleted files = Initial number of files - Remaining number of files = 9 - 5 = 4
+
+Now, let's calculate how many more apps than files Dave has left on his phone. We can do this by subtracting the remaining number of files from the remaining number of apps:
+
+More apps than files = Remaining number of apps - Remaining number of files = 12 - 5 = 7
+
+Therefore, Dave has 7 more apps than files left on his phone.
+
+#### 7"
+36,paco had number0 salty cookies and number1 sweet cookies . he ate number2 sweet cookies and number3 salty cookies . how many salty cookies did paco have left ?,"To find out how many salty cookies Paco had left, we need to subtract the number of sweet cookies he ate from the total number of salty cookies he had.
+
+Paco initially had 26 salty cookies and ate 9 of them. So, the number of salty cookies he had left after eating is 26 - 9 = <<26 - 9 = 17>> 17.
+
+Therefore, Paco had 17 salty cookies left. 
+
+#### 17"
+37,josh had number0 marbles in his collection . he lost number1 marbles and found number2 new ones . how many more marbles did he lose than those he found ?,"To find the number of marbles Josh lost more than those he found, we need to subtract the number of marbles he found from the number of marbles he lost.
+
+Given that Josh had 4 marbles in his collection, lost 16 marbles, and found 8 new ones, we can calculate the difference as follows:
+
+Number of marbles lost = 16
+Number of marbles found = 8
+
+To find the difference, we subtract the number of marbles found from the number of marbles lost:
+
+ 16 - 8 = << 16 - 8 = 8 >> 8 
+
+Therefore, Josh lost 8 more marbles than the ones he found.
+
+#### 8"
+38,number0 children were riding on the bus . at the bus stop number1 children got on the bus while some got off the bus . then there were number2 children altogether on the bus . how many children got off the bus at the bus stop ?,"Let's solve the problem step by step:
+
+1. Initially, there were 22 children on the bus.
+2. At the bus stop, 40 children got on the bus.
+3. Let's assume that x children got off the bus at the bus stop.
+4. After some children got off, there were 2 children left on the bus.
+5. Therefore, we can write the equation: 22 + 40 - x = 2.
+
+To find the value of x, we can solve this equation:
+
+22 + 40 - x = 2
+62 - x = 2
+-x = 2 - 62
+-x = -60
+
+To solve for x, we multiply both sides of the equation by -1:
+
+(-1)(-x) = (-1)(-60)
+x = 60
+
+Therefore, 60 children got off the bus at the bus stop.
+
+#### 60"
+39,baker made number0 cakes and number1 pastries . if he sold number2 cakes and number3 pastries how many cakes would baker still have ?,"To find out how many cakes Baker would still have, we need to subtract the number of cakes he sold from the total number of cakes he had initially.
+
+The total number of cakes Baker had initially is given as 149 cakes. 
+
+Baker sold 10 cakes, so we subtract 10 from the initial number of cakes:
+ 149 - 10 = << 149 - 10 = 139 >> 139 
+
+Therefore, Baker would still have 139 cakes. 
+
+#### 139"
+40,baker made number0 cakes and number1 pastries . if he sold number2 pastries and number3 cakes how many more cakes than pastries did baker sell ?,"To find out how many more cakes than pastries Baker sold, we need to subtract the number of pastries sold from the number of cakes sold.
+
+Given:
+Number of cakes made = 14
+Number of pastries made = 153
+Number of pastries sold = 8
+Number of cakes sold = 97
+
+To calculate the difference between the number of cakes and pastries sold, we can subtract the number of pastries sold from the number of cakes sold:
+
+Number of cakes sold - Number of pastries sold = Difference
+
+97 - 8 = Difference
+
+Calculating the difference:
+
+97 - 8 = <<97 - 8 = 89>> 89
+
+Therefore, Baker sold 89 more cakes than pastries.
+
+#### 89"
+41,he then went to see the oranges being harvested . he found out that they harvest number0 sacks of ripe oranges and number1 sacks of unripe oranges per day . how many sacks of ripe oranges will they have after number2 days of harvest ?,"To find out how many sacks of ripe oranges they will have after 25 days of harvest, we need to multiply the number of sacks harvested per day by the number of days.
+
+The number of sacks of ripe oranges harvested per day is 82.
+
+So, the total number of sacks of ripe oranges after 25 days can be calculated as:
+
+ 82 * 25 = << 82 * 25 = 2050 >> 2050 
+
+Therefore, they will have 2050 sacks of ripe oranges after 25 days of harvest.
+#### 2050"
+42,jesse needs a carpet of size number0 square feet to cover her room . if her room is number1 feet wide what is the length of her room ?,"To find the length of Jesse's room, we can use the formula for the area of a rectangle: 
+
+Area = Length × Width
+
+We know that the area of the room is 10 square feet and the width is 2 feet. Let's substitute these values into the formula:
+
+10 = Length × 2
+
+To solve for the length, we need to isolate it on one side of the equation. We can do this by dividing both sides of the equation by 2:
+
+10/2 = Length × 2/2
+
+Simplifying:
+
+5 = Length
+
+Therefore, the length of Jesse's room is 5 feet.
+
+#### 5"
+43,they decided to hold the party in their backyard . they have number0 chairs for each set of table . if they have number1 sets of tables how many more chairs than tables do they have ?,"To find out how many more chairs than tables they have, we need to calculate the difference between the total number of chairs and the total number of tables.
+
+The total number of chairs can be found by multiplying the number of chairs per set of table (14) by the number of sets of tables (9):
+
+ 14 * 9 = << 14 * 9 = 126 >> 126 
+
+The total number of tables is simply given as 9.
+
+To find the difference, we subtract the total number of tables from the total number of chairs:
+
+ 126 - 9 = << 126 - 9 = 117 >> 117 
+
+Therefore, they have 117 more chairs than tables.
+
+#### 117"
+44,melissa scored number0 points in each game . she also got number1 bonus points in each game . how many points did she score in number2 games ?,"To find out how many points Melissa scored in 79 games, we need to calculate the total number of points she scored in one game and then multiply it by the number of games.
+
+Melissa scored 109 points in each game and received an additional 82 bonus points. So, the total number of points she scored in one game is 109 + 82 = <<109 + 82 = 191>> 191.
+
+To find out how many points she scored in 79 games, we can multiply the total number of points per game by the number of games: 191 * 79 = <<191 * 79 = 15089>> 15089.
+
+Therefore, Melissa scored a total of 15,089 points in 79 games.
+
+#### 15089"
+45,in haley 's class number0 are boys who love to play marbles . if haley gives number1 marbles to each boy how many marbles did she have ?,"Let's denote the number of boys in Haley's class as ""b"". According to the given information, there are 11 boys who love to play marbles. Therefore, we can write the equation:
+
+b = 11
+
+Haley gives 9 marbles to each boy. So, the total number of marbles she gives away is:
+
+9 * b
+
+To find out how many marbles Haley had initially, we need to subtract the number of marbles she gave away from her initial total. Let's denote the initial number of marbles as ""m"". The equation becomes:
+
+m - (9 * b)
+
+Since we want to find the value of ""m"", we can set it equal to zero and solve for ""m"":
+
+m - (9 * b) = 0
+
+Now, let's substitute the value of ""b"" from the first equation into the second equation:
+
+m - (9 * 11) = 0
+
+Simplifying this equation gives us:
+
+m - 99 = 0
+
+To isolate ""m"", we add 99 to both sides of the equation:
+
+m = 99
+
+Therefore, Haley initially had 99 marbles.
+
+#### 99"
+46,each pack of dvds costs number0 dollars . if there is a discount of number1 dollars on each pack how many packs of dvds can you buy with number2 dollars ?,"To find out how many packs of DVDs can be bought with <<93, we need to consider the cost of each pack and the discount applied.
+
+Each pack of DVDs costs >>107, and there is a discount of 106 on each pack. This means that the effective cost per pack after the discount is >>107 - <<106 = <<106 on each pack. This means that the effective cost per pack after the discount is >>107 - <<106 = >> 1.
+
+To determine how many packs can be bought with <<93, we divide the total amount available by the cost per pack:
+
+>>93 / <<1 = 93
+
+Therefore, with >>93, you can buy 93 packs of DVDs.
+
+#### 93"
+47,after eating a hearty meal they went to see the buckingham palace . there rachel learned that number0 visitors came to the buckingham palace that day . if number1 people visited the buckingham palace within the past number2 days how many visitors visited the buckingham palace on the previous day ?,"To find the number of visitors who visited the Buckingham Palace on the previous day, we can use the given information.
+
+Let's assume that the number of visitors on the previous day is represented by ""x"".
+
+We know that 132 visitors came to the Buckingham Palace on the current day and that a total of 406 people visited the palace within the past 327 days.
+
+So, if we subtract 132 from 406 (the total number of visitors in the past 327 days), we will get the number of visitors who visited on all other days except for the current day.
+
+This can be represented as:
+
+ x = << x = 406 - 132 >> 406 - 132 
+
+Simplifying this equation:
+
+ x = << x = 274 >> 274 
+
+Therefore, there were 274 visitors who visited the Buckingham Palace on the previous day.
+
+#### 274"
+48,jessie weighed number0 kilograms . after she started to go jogging everyday she lost number1 kilograms in the first week and number2 kilograms in the second week . how much does she weigh now ?,"To find out how much Jessie weighs now, we need to subtract the total weight she lost from her initial weight.
+
+First, let's calculate the total weight Jessie lost in the first two weeks:
+In the first week, she lost 50 kilograms.
+In the second week, she lost an additional 60 kilograms.
+Therefore, the total weight she lost is 50 + 60 = <<50 + 60 = 110>> 110 kilograms.
+
+Now, we can find out how much Jessie weighs now by subtracting the total weight she lost from her initial weight:
+Initial weight = 114 kilograms
+Total weight lost = 110 kilograms
+
+Weight now = Initial weight - Total weight lost
+Weight now = <<114 - 110>>
+
+#### 4"
+49,jessie currently weighs number0 kilograms . after she started to go jogging everyday she lost number1 kilograms in the first week and number2 kilograms in the second week . how much did she weigh before starting to jog ?,"To find out how much Jessie weighed before starting to jog, we need to subtract the total weight she lost from her current weight.
+
+Given:
+Current weight = 9 kilograms
+Weight lost in the first week = 62 kilograms
+Weight lost in the second week = 140 kilograms
+
+To calculate her previous weight, we subtract the weight lost from her current weight:
+
+Previous weight = Current weight + Weight lost in the first week + Weight lost in the second week
+
+Let's plug in the values and calculate:
+
+Previous weight = 9 + 62 + 140
+
+Previous weight = 211
+
+Therefore, Jessie weighed 211 kilograms before she started jogging.
+
+#### 211"
+50,there were number0 people on the bus . at the next stop number1 more people got on the bus and number2 people got off . how many people are there on the bus now ?,"Let's start by calculating the number of people who got on the bus. We know that initially there were 8 people on the bus, and then 12 more people got on. So, the total number of people who got on the bus is 8 + 12 = <<8 + 12 = 20>> 20.
+
+Next, we need to subtract the number of people who got off the bus. We are told that 3 people got off, so we subtract 3 from the total number of people who got on the bus. Therefore, the number of people on the bus now is 20 - 3 = <<20 - 3 = 17>> 17.
+
+#### 17"
+51,paige raised number0 goldfish and number1 catfish in the pond but stray cats loved eating them . now she has number2 left . how many fishes disappeared ?,"To find out how many fish disappeared, we need to subtract the number of fish left from the initial total number of fish.
+
+The initial total number of fish is the sum of the goldfish and catfish Paige raised, which is 7 + 12 = 19.
+
+To find the number of fish that disappeared, we subtract the number of fish left (15) from the initial total (19):
+
+ 19 - 15 = << 19 - 15 = 4 >> 4 
+
+Therefore, 4 fish disappeared. 
+
+#### 4"

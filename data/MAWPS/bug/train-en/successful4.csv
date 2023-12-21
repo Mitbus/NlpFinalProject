@@ -1,0 +1,54 @@
+question,answer
+"A dust storm sweeps across the prairie . It covers number0 acres of the prairie in dust , but leaves number1 acres untouched . How many acres does the prairie cover ?","To solve this problem, we need to find the total area of the prairie. We know that the dust storm covered 64535 acres and left 522 acres untouched. 
+
+We can calculate the total area of the prairie by adding the area covered by the dust storm and the area left untouched. 
+
+Here's how we can do it:
+
+ 64535 + 522 = << 64535 + 522 = 64535 + 522 >> 64535 + 522 
+
+So, the total area of the prairie is 64535 + 522 = << 65057 >> acres.
+
+#### 65057"
+brian ran around the school track in number0 seconds . todd ran around it in number1 seconds . how many fewer seconds did it take todd to run around the tracl ?,"To find out how many fewer seconds it took Todd to run around the track compared to Brian, we need to subtract Brian's time from Todd's time.
+
+Todd's time: 88 seconds
+Brian's time: 96 seconds
+
+To calculate the difference, we subtract Brian's time from Todd's time:
+
+ 88 - 96 = << 88 - 96 = -8 >> -8 
+
+The negative sign indicates that Todd took 8 seconds less than Brian to run around the track.
+
+#### -8"
+"A teacher had number0 worksheets to grade . If she graded number1 , but then another number2 were turned in , how many worksheets would she have to grade ?","The teacher initially had 34 worksheets to grade. She graded 7 of them. 
+
+To find out how many worksheets she would have to grade after another 36 were turned in, we need to add the number of worksheets she initially had with the number of worksheets that were turned in.
+
+So, we can calculate it as follows:
+
+34 + 36 = <<34 + 36 = 70>> 70
+
+Therefore, the teacher would have to grade 70 worksheets.
+
+#### 70"
+amy had some candy . she gave her friend number0 pieces and had number1 left . what 's the difference between of the pieces of candy amy gave away and the left ?,"To find the difference between the number of candy pieces Amy gave away and the number of candy pieces she had left, we can subtract the number of candy pieces given away from the number of candy pieces she had initially.
+
+Let's denote the number of candy pieces Amy initially had as ""x"". According to the problem, Amy gave away 6 pieces, leaving her with 5 pieces.
+
+So we can set up the equation: x - 6 = 5.
+
+To find the value of x, we can add 6 to both sides of the equation: x = 5 + 6.
+
+Simplifying the equation, we get: x = 11.
+
+Therefore, Amy initially had 11 pieces of candy. 
+
+To find the difference between the number of candy pieces Amy gave away and the number of candy pieces she had left, we subtract the number of candy pieces given away (6) from the number of candy pieces she had left (5).
+
+The difference is: 5 - 6 = -1.
+
+So, the difference between the number of candy pieces Amy gave away and the number of candy pieces she had left is -1.
+
+#### -1"
