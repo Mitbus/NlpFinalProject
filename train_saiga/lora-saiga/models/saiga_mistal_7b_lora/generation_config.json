@@ -1,0 +1,13 @@
+{
+    "pad_token_id": 0,
+    "bos_token_id": 1,
+    "eos_token_id": 2,
+    "temperature": 0.2,
+    "top_p": 0.9,
+    "top_k": 40,
+    "do_sample": true,
+    "num_beams": 1,
+    "max_new_tokens": 1536,
+    "repetition_penalty": 1.1,
+    "no_repeat_ngram_size": 15
+}

@@ -1,0 +1,1 @@
+v2 and v3 are removed from archive, as well as all v1 checkpoints except for the best.
